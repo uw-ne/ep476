@@ -4,7 +4,7 @@ Linux Command-line Cheat Sheet
 +------------+-----------------+-------------------------+
 | COMMAND    |  MNEMONIC       | PURPOSE                 |
 +------------+-----------------+-------------------------+
-|            | _p_resent       | report the current      |
-|  pwd       | _w_orking       | directory               |
-|            | _d_irectory     |                         |
+|            | **p**resent     | report the current      |
+|  pwd       | **w**orking     | directory               |
+|            | **d**irectory   |                         |
 +------------+-----------------+-------------------------+
