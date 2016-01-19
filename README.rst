@@ -23,14 +23,22 @@ management of data and development of analysis workflows that involve multiple
 tools strung together in a sequence, and also numerical methods.
 
 This course is designed to introduce a variety of concepts that will make
-engineers and scientists more effective at .... XXXXX
+engineers and scientists more effective at developing software that
+facilitates modern engineering analysis.  
 
 Assessment
 ----------
 
-| Homework: 60%
+Homework: 60%
+=============
+ - approximately weekly
+ - continuation of in-class exercises
+ - develop skills and proficiency
 
-| Project: 40%
+Project: 40%
+============
+ - implement your own software and/or contribution to an open source software project
+ - should use a variety of skills learned in class
 
 
 Syllabus
