@@ -17,4 +17,45 @@ primarily in the Engineering Physics department.
 Description
 -----------
 
-Scientific computing has evolved from 
+Scientific software development has transitioned from a field devoted almost
+entirely to numerical methods to one that increasingly relies on more advanced
+management of data and development of analysis workflows that involve multiple
+tools strung together in a sequence, and also numerical methods.
+
+This course is designed to introduce a variety of concepts that will make
+engineers and scientists more effective at .... XXXXX
+
+Syllabus
+--------
+
++----------+------------------------------------------------------+
+| Week 1   | Intro, Shell, Filesystem & Environment               |
++----------+------------------------------------------------------+
+| Week 2   | Version control: local & remote                      |
++----------+------------------------------------------------------+
+| Week 3   | Python: intro, variable names, types, using modules  |
++----------+------------------------------------------------------+
+| Week 4   | Python: Debugging & Unit testing                     |
++----------+------------------------------------------------------+
+| Week 5   | Python: Containers & Flow control                    |
++----------+------------------------------------------------------+
+| Week 6   | Python: Classes & Modules                            |
++----------+------------------------------------------------------+
+| Week 7   | Python: Integration & regression testing, Validation |
++----------+------------------------------------------------------+
+| Week 8   | Profiling & Compiled languages & Mixed languages     |
++----------+------------------------------------------------------+
+| Week 9   | Make files & build systems                           |
++----------+------------------------------------------------------+
+| Week 10  | Deployment & Collaboration                           |
++----------+------------------------------------------------------+
+| Week 11  | Continuous integration & Automation                  |
++----------+------------------------------------------------------+
+| Week 12  | Data management & metadata                           |
++----------+------------------------------------------------------+
+| Week 13  | String handling & Regular expressions                |
++----------+------------------------------------------------------+
+| Week 14  | Numerical tools: Numpy, SciPy, Matplotlib            |
++----------+------------------------------------------------------+
+| Week 15  | Parallelism: HTCondor, MPI, OpenMP                   |
++----------+------------------------------------------------------+
