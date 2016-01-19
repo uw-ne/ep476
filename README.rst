@@ -26,6 +26,12 @@ This course is designed to introduce a variety of concepts that will make
 engineers and scientists more effective at developing software that
 facilitates modern engineering analysis.  
 
+Textbook
+---------
+
+`"Effective Computation in Physics", Anthony Scopatz & Kathryn Huff, O'Reilly, 2015 <http://shop.oreilly.com/product/0636920033424.do>`_
+
+
 Assessment
 ----------
 
