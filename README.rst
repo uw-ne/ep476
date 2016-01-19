@@ -32,15 +32,15 @@ Assessment
 Homework: 60%
 =============
 
-   - approximately weekly
-   - continuation of in-class exercises
-   - develop skills and proficiency
+    - approximately weekly
+    - continuation of in-class exercises
+    - develop skills and proficiency
 
 Project: 40%
 ============
 
-   - implement your own software and/or contribution to an open source software project
-   - should use a variety of skills learned in class
+    - implement your own software and/or contribution to an open source software project
+    - should use a variety of skills learned in class
 
 
 Syllabus
