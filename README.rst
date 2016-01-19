@@ -25,6 +25,14 @@ tools strung together in a sequence, and also numerical methods.
 This course is designed to introduce a variety of concepts that will make
 engineers and scientists more effective at .... XXXXX
 
+Assessment
+----------
+
+| Homework: 60%
+
+| Project: 40%
+
+
 Syllabus
 --------
 
@@ -35,9 +43,9 @@ Syllabus
 +----------+------------------------------------------------------+
 | Week 3   | Python: intro, variable names, types, using modules  |
 +----------+------------------------------------------------------+
-| Week 4   | Python: Debugging & Unit testing                     |
+| Week 4   | Python: Documentation, Debugging & Unit testing      |
 +----------+------------------------------------------------------+
-| Week 5   | Python: Containers & Flow control                    |
+| Week 5   | Python: Containers & flow control                    |
 +----------+------------------------------------------------------+
 | Week 6   | Python: Classes & Modules                            |
 +----------+------------------------------------------------------+
