@@ -11,8 +11,8 @@ Lecture #1: Introductions: Course and Command-line
           * Pros: no installation on your machine
           * Cons: no control over versions of software
      * Laptop native
-       * Pros: work in the operating system you are familiar with, don't need to install virtual machine software
-       * Cons: instructor not familiar with non-linux system
+        * Pros: work in the operating system you are familiar with, don't need to install virtual machine software
+        * Cons: instructor not familiar with non-linux system
      * Laptop virtual machine
 5. Meet the command-line
      * 
