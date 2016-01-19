@@ -39,8 +39,8 @@ Homework: 60%
 Project: 40%
 ============
 
-    - implement your own software and/or contribution to an open source software project
-    - should use a variety of skills learned in class
+    * implement your own software and/or contribution to an open source software project
+    * should use a variety of skills learned in class
 
 
 Syllabus
@@ -48,6 +48,8 @@ Syllabus
 
 +----------+------------------------------------------------------+
 | Week 1   | Intro, Shell, Filesystem & Environment               |
+|          +------------------------------------------------------+
+|          | Lecture #1                                           |
 +----------+------------------------------------------------------+
 | Week 2   | Version control: local & remote                      |
 +----------+------------------------------------------------------+
