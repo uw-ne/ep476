@@ -32,9 +32,10 @@ Assessment
 Homework: 60%
 =============
 
-    - approximately weekly
-    - continuation of in-class exercises
-    - develop skills and proficiency
+What's happening:
+    * approximately weekly
+    * continuation of in-class exercises
+    * develop skills and proficiency
 
 Project: 40%
 ============
