@@ -22,19 +22,4 @@ Lecture #1: Introductions: Course and Command-line
     * Commercial cloud (e.g. `Digital Ocean <http://www.digitalocean.com>`_)
        * Pros: work in customized linux environment, learn cloud computing
        * Cons: cost, requires network and may requires some network knowledge
-5. Meet the command-line using SSVNC
-    * Paths and pwd
-        * absolute paths
-        * relative paths
-    * Home directory
-    * Listing the contents (ls)
-    * Changing directories (cd)
-        * up and the current directory
-    * Looking at files
-        * head
-        * tail 
-        * less
-
-`Command-line Cheat Sheet <http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf>`_
-
 
