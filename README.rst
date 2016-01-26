@@ -60,7 +60,7 @@ Syllabus
 | Week 2   | Version control: local & remote                       |
 |          +---------------------------+---------------------------+
 |          | `Lecture #3 <lec03.rst>`_ | `Lecture #4 <lec04.rst>`_ |
-+----------+-------------------------------------------------------+
++----------+---------------------------+---------------------------+
 | Week 3   | Python: intro, variable names, types, using modules   |
 +----------+-------------------------------------------------------+
 | Week 4   | Python: Documentation, Debugging & Unit testing       |
