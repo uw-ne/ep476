@@ -20,13 +20,6 @@ Lecture #2: Working with files and your environment
     * copy
     * move
     * remove
-    * links
-    * mkdir
-    * wildcards
-         * asterisk
-         * question mark
-         * ranges
-    * flags: e.g. cp -r, mv -f, rm -f
 
 `Command-line Cheat Sheet <http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf>`_
 
