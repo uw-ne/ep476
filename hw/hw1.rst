@@ -1,11 +1,15 @@
-EP476: Introduction to Scientific Computing for Engineering Physics
-===================================================================
-
 Homework #1
 ===========
 
-The first questions are based on a common directory structure found at
-~wilsonp/ep476-hw1.  
+EP476: Introduction to Scientific Computing for Engineering Physics
+-------------------------------------------------------------------
+
+**Due: Thursday, February, 4, 1:00 PM**
+
+Most of these questions are based on a common directory structure found at
+~wilsonp/ep476-hw1.
+
+Please turn in your solutions by email.  Some of your answers can be in the body of the message itself or in a standard text file.  If you are adding other attachments, please use PDF files.
 
 1. Make a copy of this directory and all of its contents in your own
    filespace.
