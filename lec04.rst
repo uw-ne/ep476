@@ -12,11 +12,8 @@ Reading:
      * git branch
      * git checkout
      * git merge
-3. remote repositores
+3. remote repositories
      * git clone
      * git remote
-     * git push
-     * git fetch
-     * git merge
  
 

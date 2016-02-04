@@ -57,15 +57,17 @@ Syllabus
 |          +------------------------------+--------------------------------+
 |          | `Lecture #1 <lec01.rst>`_    | `Lecture #2 <lec02.rst>`_      |
 +----------+------------------------------+--------------------------------+
-| Week 2   | Version control: local & remote                               |
+| Week 2   | Managing your Environment & Intro to Version Control          |
 |          +------------------------------+--------------------------------+
 |          | `Lecture #3 <lec03.rst>`_    | `Homework #1 <hw/hw1.rst>`_    |
 +----------+------------------------------+--------------------------------+
-| Week 3   | Python: intro, variable names, types, using modules           |
+| Week 3   | Version control: Local & Remote; Python Intro                 |
 |          +------------------------------+--------------------------------+
-|          | `Lecture #4 <lec04.rst>`_    |                                |
+|          | `Lecture #4 <lec04.rst>`_    | `Lecture #5 <lec05.rst>`_      |
 +----------+------------------------------+--------------------------------+
-| Week 4   | Python: Documentation, Debugging & Unit testing               |
+| Week 4   | Python: Types, Modules, Documentation                         |
++----------+---------------------------------------------------------------+
+|          | Python: Debugging & Unit testing                              |
 +----------+---------------------------------------------------------------+
 | Week 5   | Python: Containers & flow control                             |
 +----------+---------------------------------------------------------------+
