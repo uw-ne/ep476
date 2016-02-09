@@ -36,7 +36,7 @@ Some possible projects:
 * `DAGMC <http://github.com/svalinn/DAGMC>`_
 * `PICUP <https://github.com/bcornille/PICUP>`_
 * `pyReactor <https://github.com/wgurecky/pyReactor>`_
-* `reactor https://github.com/rwcarlsen/reactor>`_
+* `reactor <https://github.com/rwcarlsen/reactor>`_
 
 but there are many others....
 
