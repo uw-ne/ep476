@@ -6,6 +6,7 @@ software development skills that you will learn in this course.  The best
 projects will require you to use many different skills.
 
 All projects are expected to require at least the following skills:
+
 * version control
 * software development in some language that employs best practices for:
      * naming variables, methods and classes
@@ -34,6 +35,7 @@ Begin a new open source project, possibly in collaboration with classmates or
 others, to provide a capability that is of interest to you.  This will require
 some additional up front effort to establish all the infrastructure of a new
 project, for which you will receive credit:
+
 * license
 * documentation
 * style guide
