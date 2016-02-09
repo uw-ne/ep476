@@ -69,7 +69,7 @@ Syllabus
 | Week 4   | Python: Strings, Modules, Documentation, Containers               |
 |  Feb     +------------------------------+------------------------------------+
 |  9 & 11  | `Lecture #6 <lec06.rst>`_ ,  | `Lecture #7 <lec07.rst>`_          |
-|          | `Homework #2 <hw/hw2.rst>`_  |                                    |
+|          | Homework #2                  |                                    |
 +----------+------------------------------+------------------------------------+
 | Week 5   | Python: Containers & flow control                                 |
 |  Feb     |                                                                   |
