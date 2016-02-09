@@ -10,8 +10,8 @@ All projects are expected to require at least the following skills:
 * version control
 * software development in some language, while employing best practices for:
 
-   * naming variables, methods and classes
-   * modularity and reuse of the code
+  * naming variables, methods and classes
+  * modularity and reuse of the code
 
 * testing
 * documentation
@@ -28,6 +28,11 @@ before they can be integrated into the main code base.  In order to reduce the
 burden on these developers and to ensure that your grade does not depend on
 them, I will review these contributions independently.  Nevertheless, the
 ideal outcome will be that your contribution is included in that project.
+
+Some suggested projects:
+
+* `PyNE <http://pyne.io>`_
+* `
 
 
 2. Development of a new open source science project
