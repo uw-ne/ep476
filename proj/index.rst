@@ -44,15 +44,15 @@ project, for which you will receive credit:
 Timeline:
 ==========
 
-February 23: Project proposal
-++++++++++++++++++++++++++++++++
+February 23: Project proposal (5%)
+++++++++++++++++++++++++++++++++++
 
 In 300-500 words, describe what your project will entail and the scope of your
 contribution.  You should include the set of skills that you think this
 project will require you to demonstrate.
 
-March 9: Project timeline
-++++++++++++++++++++++++++
+March 9: Project timeline (5%)
++++++++++++++++++++++++++++++++
 
 Provide a detailed timeline for completing your project.  Break the project
 down into a series of tasks and identify when you will aim to complete each
@@ -60,20 +60,24 @@ task.  Estimate how many hours of your time it will take to complete each
 task.  Identify when your project will require feedback from others in order
 to continue making progress.
 
-April 8: Intermediate report
-+++++++++++++++++++++++++++++
+April 8: Intermediate report (5%)
++++++++++++++++++++++++++++++++++
 
 Provide a status report of each of the tasks identified in your timeline.  Be
 prepared to discuss possible changes to your timeline to accommodate the
 current status.
 
-May 6: Presentation of project contributions
-++++++++++++++++++++++++++++++++++++++++++++++
+May 6: Presentation of project contributions (5%)
++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Brief (~8 minutes) presentations of projects to include:
 * scope of project
 * assessment of progress vs. timeline
 * demonstration of course skills
 
+May 13: Final status (20%)
++++++++++++++++++++++++++++
 
+All contributions will be complete and final assessment will occur based on
+progress to this point.
 
