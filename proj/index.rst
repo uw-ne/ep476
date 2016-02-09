@@ -29,10 +29,16 @@ burden on these developers and to ensure that your grade does not depend on
 them, I will review these contributions independently.  Nevertheless, the
 ideal outcome will be that your contribution is included in that project.
 
-Some suggested projects:
+Some possible projects:
 
 * `PyNE <http://pyne.io>`_
-* `
+* `Cyclus <http://fuelcycle.org>`_
+* `DAGMC <http://github.com/svalinn/DAGMC>`_
+* `PICUP <https://github.com/bcornille/PICUP>`_
+* `pyReactor <https://github.com/wgurecky/pyReactor>`_
+* `reactor https://github.com/rwcarlsen/reactor>`_
+
+but there are many others....
 
 
 2. Development of a new open source science project
