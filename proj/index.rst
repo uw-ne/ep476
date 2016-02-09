@@ -8,9 +8,9 @@ projects will require you to use many different skills.
 All projects are expected to require at least the following skills:
 
 * version control
-* software development in some language that employs best practices for:
-    * naming variables, methods and classes
-    * modularity and reuse of the code
+* software development in some language, while employing best practices for:
+   * naming variables, methods and classes
+   * modularity and reuse of the code
 * testing
 * documentation
 
