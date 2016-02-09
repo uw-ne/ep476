@@ -75,6 +75,7 @@ May 6: Presentation of project contributions (5%)
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 Brief (~8 minutes) presentations of projects to include:
+
 * scope of project
 * assessment of progress vs. timeline
 * demonstration of course skills
