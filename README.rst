@@ -69,13 +69,13 @@ Syllabus
 | Week 4   | Python: Strings, Modules, Documentation, Containers               |
 |  Feb     +------------------------------+------------------------------------+
 |  9 & 11  | `Lecture #6 <lec06.rst>`_ ,  | `Lecture #7 <lec07.rst>`_          |
-|          | Homework #2                  |                                    |
+|          |                              | `Homework #2 <hw/hw2.rst>`_        |
 +----------+------------------------------+------------------------------------+
-| Week 5   | Python: Containers & flow control                                 |
+| Week 5   | Python: flow control, modularity with functions                   |
 |  Feb     |                                                                   |
 |  16 & 18 |                                                                   |
 +----------+-------------------------------------------------------------------+
-| Week 6   | Python: Modularity with Functions, Classes & Modules              |
+| Week 6   | Python: Classes & Modules                                         |
 |  Feb     |                                                                   |
 |  23 & 25 |                                                                   |
 +----------+-------------------------------------------------------------------+
