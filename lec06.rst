@@ -1,4 +1,4 @@
-Lecture #5: Version Control: Branching & Remote
+Lecture #6: Intro to Python
 ===========================================================
 
 Reading: 

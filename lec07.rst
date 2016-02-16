@@ -1,4 +1,4 @@
-Lecture #5: Version Control: Branching & Remote
+Lecture #7: Python Modules & Containers
 ===========================================================
 
 Reading: 
