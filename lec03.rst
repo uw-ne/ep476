@@ -32,5 +32,62 @@ Reading:
     * git log
     * git diff
  
-`Command-line Cheat Sheet <http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf>`_
+Some useful git stuff
+-----------------------
+
+Changing your prompt to show your git branch.
++++++++++++++++++++++++++++++++++++++++++++++
+
+Add these functions to  your `.bashrc`
+
+``` bash
+function parse_git_branch() {
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/(\1) /'
+    
+}
+
+function get_git_color() {
+
+    isred=`git status -s 2> /dev/null | egrep "^.[^? ]" | wc | awk '{print $1}'`
+    isorange=`git status -s 2> /dev/null | egrep "^[^? ]" | wc | awk '{print $1}'`
+
+    git_prompt_color=32
+
+    if [ $isorange -ne 0 ]
+    then
+	git_prompt_color=33
+    fi
+    if [ $isred -ne 0 ]
+    then
+	git_prompt_color=31
+    fi
+    
+    echo "$git_prompt_color"
+}
+```
+
+and then change your prompt to include:
+
+```
+export STD_PROMPT="\[\e[1;\$(get_git_color)m\] \$(parse_git_branch)\[\e[0m\]"
+```
+
+
+Print a pretty log of your git repo
+++++++++++++++++++++++++++++++++++++++
+
+The following set of options for `git log` will give a color coded log that shows branches.
+
+```
+log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s%Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --graph --decorate --date=relative
+```
+
+You can add it to your git config file (~/.gitconfig) as an alias:
+
+```
+[alias]
+     plog=log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s%Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --graph --decorate --date=relative
+```
+
+and then use it as the comment `git plog`.
 
