@@ -76,14 +76,14 @@ Syllabus
 |          | `Lecture #8 <lec08.rst>`_    | `Lecture #9 <lec09.rst>`_          |
 |  16 & 18 |                              |                                    |
 +----------+------------------------------+------------------------------------+
-| Week 6   | Python: Debugging & Unit testing                                  |
+| Week 6   | Python: Debugging & Unit testing, Classes                         |
 |  Feb     +------------------------------+------------------------------------+
 |  23 & 25 | `Lecture #10 <lec10.rst>`_   | `Lecture #11 <lec11.rst>`_         |
 +----------+------------------------------+------------------------------------+
-| Week 7   | Python: Classes & Modules                                         |
-|  Mar     |                                                                   |
-|  1 & 3   |                                                                   |
-+----------+-------------------------------------------------------------------+
+| Week 7   | Project Discussion & iPython Notebooks                            |
+|  Mar     +------------------------------+------------------------------------+
+|  1 & 3   |  Project Discussions         |  Lecture #12                       |
++----------+------------------------------+------------------------------------+
 | Week 8   | Python: Integration & regression testing, Validation              |
 |  Mar     |                                                                   |
 |  8 & 10  |                                                                   |
