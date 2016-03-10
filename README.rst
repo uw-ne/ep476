@@ -82,17 +82,17 @@ Syllabus
 +----------+------------------------------+------------------------------------+
 | Week 7   | Project Discussion & iPython Notebooks                            |
 |  Mar     +------------------------------+------------------------------------+
-|  1 & 3   |  Project Discussions         |  Lecture #12                       |
+|  1 & 3   |  Project Discussions         |  `Lecture #12 <lec12.rst>`_        |
 +----------+------------------------------+------------------------------------+
-| Week 8   | Python: Integration & regression testing, Validation              |
-|  Mar     |                                                                   |
-|  8 & 10  |                                                                   |
+| Week 8   | Numerical tools: Numpy, SciPy, Matplotlib                         |
+|  Mar     +------------------------------+------------------------------------+
+|  8 & 10  |  `Lecture #13 <lec13.rst>`_  |  `Lecture #14 <lec14.rst>`_        |
 +----------+-------------------------------------------------------------------+
-| Week 9   | Profiling & Compiled languages & Mixed languages                  |
+| Week 9   | Python: Integration & regression testing, Validation              |
 |  Mar     |                                                                   |
 |  15 & 17 |                                                                   |
 +----------+-------------------------------------------------------------------+
-|                        Mar 22 & 24: Spring Break                             |
+|          |             Mar 22 & 24: Spring Break                             |
 +----------+-------------------------------------------------------------------+
 | Week 10  | Make files & build systems                                        |
 |  Mar     |                                                                   |
@@ -114,9 +114,13 @@ Syllabus
 |  Apr     |                                                                   |
 |  26 & 28 |                                                                   |
 +----------+-------------------------------------------------------------------+
-| Week 15  | Numerical tools: Numpy, SciPy, Matplotlib                         |
+| Week 15  | Profiling & Compiled languages & Mixed languages                  |
 |  May     |                                                                   |
 |  3 & 5   |                                                                   |
 +----------+-------------------------------------------------------------------+
-|  BONUS   | Parallelism: HTCondor, MPI, OpenMP                                |
+|  BONUS   | Parallelism: HTCondor, MPI, OpenMP                                | 
 +----------+-------------------------------------------------------------------+
+
+
+
+
