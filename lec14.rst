@@ -1,8 +1,9 @@
-Lecture #11: SciPy & Matplotlib
+Lecture #14: SciPy & Matplotlib
 ===========================================================
 
 Reading:
     * Chapter 9: 201-215
+    * Chapter 7: 167-172
 
 1. NumPy wrap-up
     * Universal functions

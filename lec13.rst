@@ -1,4 +1,4 @@
-Lecture #11: NumPy - thinking in arrays
+Lecture #13: NumPy - thinking in arrays
 ===========================================================
 
 Reading:

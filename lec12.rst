@@ -1,4 +1,4 @@
-Lecture #11: Using Jupyter Notebooks
+Lecture #12: Using Jupyter Notebooks
 ===========================================================
 
 Reading:
