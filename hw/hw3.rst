@@ -18,8 +18,10 @@ Element Library
 ~~~~~~~~~~~~~~~
 
 The first file is a list of natural abundances for each element.  A sample
-file is provided `here <elelib.std>`_.  The simple format has one block for
-each element, in which the first line of each block contains:
+file is provided `here
+<https://raw.githubusercontent.com/gonuke/ep476/master/hw/elelib.std>`_.  The
+simple format has one block for each element, in which the first line of each
+block contains:
 
 * the chemical symbol
 * the molar mass (g/mol)
@@ -52,8 +54,9 @@ Material Library
 ~~~~~~~~~~~~~~~~~
 
 This file is a list of engineering materials.  A sample file is provided `here
-<matlib.sample>`_. The simple format has one block for each material, in which
-the first line of each block contains:
+<https://raw.githubusercontent.com/gonuke/ep476/master/hw/matlib.sample>`_. The
+simple format has one block for each material, in which the first line of each
+block contains:
 
 * the name of the material
 * the density at standard temperature and pressure (g/cc)
