@@ -11,8 +11,8 @@ structures in memory.  Two related but slightly different data files will be
 used.
 
 **PROBLEM 1** Start a new repository for this assignment.  Copy and paste the
- text of this page into a README file for this repo, commit that file to the
- `master` branch and push it to the github repository.
+text of this page into a README file for this repo, commit that file to the
+`master` branch and push it to the github repository.
 
 Element Library
 ~~~~~~~~~~~~~~~
@@ -35,8 +35,8 @@ The rest of the block has one line per isotope, with each line containing:
 **PROBLEM 2** Create a branch from the `master` branch called `elelib_basic`.
 
 **PROBLEM 3** Write a module that provides functions to read an element
- library into a single data structure.  Assume that there will be no blank
- lines or comments.  This module should include:
+library into a single data structure.  Assume that there will be no blank
+lines or comments.  This module should include:
 
   * one function to parse the first line each block
   * one function to parse a single isotope abundance line in a block
@@ -45,7 +45,7 @@ The rest of the block has one line per isotope, with each line containing:
 You should also write nose tests for each of the first two functions.
 
 **PROBLEM 4** Commit any necessary files to the repository and push this
- branch to github.  Do not merge this into the `master` branch.
+branch to github.  Do not merge this into the `master` branch.
 
 
 Material Library
