@@ -96,8 +96,8 @@ Syllabus
 +----------+-------------------------------------------------------------------+
 | Week 10  | Make files & build systems                                        |
 |  Mar     +------------------------------+------------------------------------+
-|  29 & 31 |  `Lecture #17 <lec17.rst>`_  |       Cancelled for ANS            |
-|          | `Homework #3 <hw/hw3.rst>`_  |      Student Conference            |
+|  29 & 31 | `Lecture #17 <lec17.rst>`_   | Cancelled for ANS                  |
+|          | `Homework #3 <hw/hw3.rst>`_  | Student Conference                 |
 +----------+------------------------------+------------------------------------+
 | Week 11  | Deployment & Collaboration                                        |
 |  Apr     |                                                                   |
