@@ -86,9 +86,9 @@ Comments
 It is convenient to be able to add comments to these files, but it will make
 it more complicated to read them.
 
-**PROBLEM 7** Create a branch from the `matlib_basic` branch called `comments`.
+**PROBLEM 8** Create a branch from the `matlib_basic` branch called `comments`.
 
-**PROBLEM 8** Add the ability to recognize and ignore comments and blank lines
+**PROBLEM 9** Add the ability to recognize and ignore comments and blank lines
 at any point in the element library or material library files.  You may want
 to create a module of utility functions that you can use in both of the
 previous modules to help.
@@ -97,7 +97,7 @@ Make your own simple element library and material library that includes the
 different conditions you would like to handle and write tests that confirm
 that your code works correctly.
 
-**PROBLEM 9** Commit any necessary files, including the simple library files
+**PROBLEM 10** Commit any necessary files, including the simple library files
 you have generated, and push this branch to github.  Do not merge this into
 any other branches.
 
@@ -107,9 +107,9 @@ Expanding the Material Composition to a List of Nuclides
 It is often useful to represent a material composition in terms of its nuclide
 abundances rather than its elemental mass fractions.
 
-**PROBLEM 10** Create a branch from the `comments` branch called `expand_isos`.
+**PROBLEM 11** Create a branch from the `comments` branch called `expand_isos`.
 
-**PROBLEM 11** Write a function that will take a single material as input and
+**PROBLEM 12** Write a function that will take a single material as input and
 use the element library to generate a list of all the nuclides in that
 material and their isotopic abundances.
 
@@ -130,5 +130,5 @@ total atom density, summing over all the nuclides.
 Your function should return a single container that indicates the identity of
 each nuclide (Z & A) and its atomic abundance.
 
-**PROBLEM 12** Commit any necessary files, including testing files, and push
+**PROBLEM 13** Commit any necessary files, including testing files, and push
 this branch to github. Do not merge this into any other branches.
