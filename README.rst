@@ -68,7 +68,7 @@ Syllabus
 +----------+------------------------------+------------------------------------+   
 | Week 4   | Python: Strings, Modules, Documentation, Containers               |
 |  Feb     +------------------------------+------------------------------------+
-|  9 & 11  | `Lecture #6 <lec06.rst>`_ ,  | `Lecture #7 <lec07.rst>`_          |
+|  9 & 11  | `Lecture #6 <lec06.rst>`_ ,  | `Lecture #7 <lec07.rst>`_ ,        |
 |          |                              | `Homework #2 <hw/hw2.rst>`_        |
 +----------+------------------------------+------------------------------------+
 | Week 5   | Python: flow control, modularity with functions                   |
@@ -94,9 +94,9 @@ Syllabus
 +----------+------------------------------+------------------------------------+
 |          |             Mar 22 & 24: Spring Break                             |
 +----------+-------------------------------------------------------------------+
-| Week 10  | Make files & build systems                                        |
+| Week 10  | Make files                                                        |
 |  Mar     +------------------------------+------------------------------------+
-|  29 & 31 | `Lecture #17 <lec17.rst>`_   | Cancelled for ANS                  |
+|  29 & 31 | `Lecture #17 <lec17.rst>`_ , | Cancelled for ANS                  |
 |          | `Homework #3 <hw/hw3.rst>`_  | Student Conference                 |
 +----------+------------------------------+------------------------------------+
 | Week 11  | Deployment & Collaboration                                        |
