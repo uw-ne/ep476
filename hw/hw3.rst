@@ -130,8 +130,9 @@ where:
 To convert to the isotopic abundance of that nuclide, simply divide by the
 total atom density, summing over all the nuclides.
 
-Your function should return a single container that indicates the identity of
-each nuclide (Z & A) and its atomic abundance.
+Your function should take a material data structure as input and return a
+single container that indicates the identity of each nuclide (Z & A) and its
+atomic abundance.
 
 **PROBLEM 13** Commit any necessary files, including testing files, and push
 this branch to github. Do not merge this into any other branches.
