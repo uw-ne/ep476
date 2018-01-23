@@ -57,8 +57,10 @@ Topics
 * Version control with git
 * Healthy software development communities
 * Programming for human efficiency and maintainability
+
   * Programming style: write code for people
   * Programming modularity: don't repeat yourself
+
 * Unit testing for robustness 
 * Continuous integration
 * Using a debugger
