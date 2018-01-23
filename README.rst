@@ -67,8 +67,10 @@ Topics
 * Software performance: using a profiler
 * Build & Installation Management
 * Software Design
-* Scientific Computing & Numerical Methods  
-* Visualization
+* Scientific Computing
+
+  * Numerical Methods  
+  * Visualization
 
 Syllabus
 --------
