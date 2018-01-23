@@ -63,10 +63,18 @@ Topics
 
 * Unit testing for robustness 
 * Continuous integration
-* Using a debugger
-* Software performance: using a profiler
+* Understanding your tools
+
+  * Working with compiled languages: Using a compiler
+  * Fixing mistakes: Using a debugger
+  * Testing performance: Using a profiler  
+
 * Build & Installation Management
 * Software Design
+
+  * Separation of concerns
+  * Introduction to object-oriented design
+  
 * Scientific Computing
 
   * Numerical Methods  
