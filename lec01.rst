@@ -4,9 +4,10 @@ Lecture #1: Introductions: Course and Command-line
 1. Introductions
 2. Motivation for course
      * `Best Practices for Scientific Computing <http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745>`_
+     * `Good Enough Practices for Scientific Computing <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510>`_
      * `If You Can't Reproduce It, Is it Still Science? <BestPractices.ppt>`_
 3. Review `syllabus <README.rst>`_
-4. Options for working environment
+4. Options for working environment when not in class
     * CAE Linux via ssh
        * Pros: least software requirements, works the same from anywhere
        * Cons: no graphical environment 
