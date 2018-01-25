@@ -2,13 +2,19 @@
 Learning Objectives
 ====================
 
-1. Unix/Linux Command-line
+#. Unix/Linux Command-line
 
    #. Differentiate between the terminal window and the shell
    #. List the aspecst of a shell that make it a programming language
    #. Draw a filespace as a tree of directories
    #. Recognize whether a path is an absolute path or a relative path
-   #. Identify the current working directory with `pwd`
+   #. Identify the current working directory with ``pwd``
+   #. Define the meaning of ``.``, ``..`` and ``~``
+   #. Use different options to render different formats of file list with ``ls``
    
-7. another section
-8. more objectives
+   #. Use relative paths in shell commands to access other directories without
+    going to that directory
+   
+#. another section
+
+   #. more objectives
