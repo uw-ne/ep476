@@ -155,7 +155,49 @@ Activities
 
    * open a file for editing with ``nano reactor.txt``
 
+#. ``cp``
 
+   * copy a file with ``cp reactors.txt heaters.txt`` - note: within the same directory
+
+   * explore different patterns for different combinations:
+
+     * one file to new file within this directory
+
+     * one file to new file with the same name in a different directory
+
+     * one file to new file with different name in a different directory
+
+     * many files to a different directory, all with the same names
+
+     * many files to a different directory, each with a new name - is this possible?
+
+#. ``mv``
+
+   * change to the propulsion directory
+
+   * move a file with ``mv nuclear_plane.txt bad_idea.txt``
+
+   * explore different patterns for different combinations:
      
+     * one file to new file with the same name in a different directory
+
+     * one file to new file with different name in a different directory
+
+     * many files to a different directory, all with the same names
+
+     * many files to a different directory, each with a new name - is this possible?
+
+#. ``rm``
+
+   * make a copy of ``bad_idea.txt`` called ``another_bad_idea.txt``
+
+   * delete that copy with ``rm another_bad_idea.txt``
+
+   * delete the ``propulsion`` directory with ``rm propulsion`` - does this work?
+
+   * try ``rm -r propulsion`` - does that work?
+
+  
+  
 `Command-line Cheat Sheet <http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf>`_
 

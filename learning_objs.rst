@@ -30,7 +30,6 @@ Learning Objectives
 
    #. Look at files with ``head``, ``tail``, ``cat`` and ``less``
 
-
    #. Create files with ``touch``, ``cat`` and ``nano``
 
    #. Copy and move single files and multiple files with ``cp`` and ``mv``, respectively
