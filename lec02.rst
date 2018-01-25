@@ -9,13 +9,13 @@ Lecture #2: Working with files and your environment
 
      * relative paths
 
-  * Home directory
+   * Home directory
 
-  * Listing the contents (ls)
+   * Listing the contents (ls)
 
-  * Changing directories (cd)
+   * Changing directories (cd)
 
-    * up and the current directory
+     * up and the current directory
 
 #. Looking at files
 
