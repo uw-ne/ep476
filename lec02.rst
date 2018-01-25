@@ -112,7 +112,7 @@ Activities
    * change to that directory
 
    * download `this zip file
-     <https://github.com/gonuke/ep476/raw/master/ecp-sample-filespace.zip>`_
+     <https://github.com/uw-ne/ep476/raw/master/ecp-sample-filespace.zip>`_
      and save it in the current directory
 
      * BONUS: use the command-line tool ``wget`` to accomplish this
