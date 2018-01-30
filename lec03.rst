@@ -167,6 +167,27 @@ Activities
 
    * in each copy, delete all the text files in the ``2012-07-03`` directory
 
+#. Pipes and redirection
+
+   * It is possible to send the output of one command into the input of another command
+
+   * ``stdin`` and ``stdout``
+
+   * go to the ``data/pdb`` directory in the sandbox
+
+   * look at the top of ``lanoxin.pdb`` using ``head``
+
+   * extract lines 2-4 of ``lanoxin.pdb`` using ``head -n 4 lanoxin.pdb |
+     tail -n 3``
+
+   * It is possible to send the output of one command to a file
+
+   * save lines 2-4 of ``lanoxin.pdb`` using ``head -n 4 lanoxin.pdb | tail -n
+     3 > AUTHOR.txt``
+
+   * look at ``ethylcyclohexane.pdb``, determine which lines begin with
+     ``AUTHOR`` and append those lines to ``AUTHOR.txt``
+     
 #. permissions
 
    * find a partner and log in to each other's computer using ``ssh <username>@tux-??`
@@ -219,6 +240,13 @@ Activities
      * alias ``ls`` to be ``ls --color=auto``
 
 #. ``history``
+
+   * review the history of your commands using ``history``
+
+   * save the last 5 lines of your history to a file using ``history | tail -n 5 > recent_history.txt``
+     
+  
+
         
 `Command-line Cheat Sheet <http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf>`_
 
