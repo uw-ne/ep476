@@ -1,4 +1,4 @@
-Lecture #2: Working with files and your environment
+Lecture #2: Navigating the file system
 ===================================================
 
 Learning objectives
