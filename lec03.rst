@@ -1,4 +1,4 @@
-Lecture #2: Working with files and your environment
+Lecture #3: Working with files and your environment
 ===================================================
 
 Learning objectives
