@@ -27,14 +27,14 @@ appropriate.  Send the text file to me by email.
      that new copy
    * create an environment variable called ``NUCLEAR_PATH`` that refers to
      the top-level directory of this copy
-   * change to the `fusion` directory
-   * rename the `tokamak.rst` file to be `tokamak.txt`
-   * make two directories: `magnetic` and `inertial`
-   * move the `tokamak.txt` and `stellarator.txt` files to the `magnetic` directory
-   * move the `iec.txt` and `laser.txt` files to the `inertial` directory
-   * list the contents of the `thermal` subdirectory of the `fission` directory
-   * create a symbolic link in your current directory (`fusion`) to the
-     `hybrid.txt` file that is in the `fission` directory
+   * change to the ``fusion`` directory
+   * rename the ``tokamak.rst`` file to be ``tokamak.txt``
+   * make two directories: ``magnetic`` and ``inertial``
+   * move the ``tokamak.txt`` and ``stellarator.txt`` files to the ``magnetic`` directory
+   * move the ``iec.txt`` and ``laser.txt`` files to the ``inertial`` directory
+   * list the contents of the ``thermal`` subdirectory of the ``fission`` directory
+   * create a symbolic link in your current directory (``fusion``) to the
+     ``hybrid.txt`` file that is in the ``fission`` directory
 
    Attach your script as a separate file to your email.
 
@@ -47,7 +47,7 @@ appropriate.  Send the text file to me by email.
 #. What is the command to change your prompt and remove the username and
    hostname portion? 
 
-#. Create an alias that will show you a long listing of the `fission`
+#. Create an alias that will show you a long listing of the ``fission``
    directory that you copied above.
 
 #. In what ways does tab completion improve both accuracy and efficiency when
