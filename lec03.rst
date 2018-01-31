@@ -1,5 +1,5 @@
-Lecture #3: Working with files and your environment
-===================================================
+Lecture #3: Working with files
+==============================
 
 Learning objectives
 ---------------------
