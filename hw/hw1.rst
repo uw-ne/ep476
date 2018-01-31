@@ -22,19 +22,19 @@ appropriate.  Send the text file to me by email.
 #. Write a script with the commands that would accomplish the following in
    precisely this order:
 
-      * make a new copy of the entire directory structure from its original
-        location (``~wilsonp/ep476-hw1``) to the current directory, and in
-        that new copy
-      * create an environment variable called ``NUCLEAR_PATH`` that refers to
-        the top-level directory of this copy
-      * change to the `fusion` directory
-      * rename the `tokamak.rst` file to be `tokamak.txt`
-      * make two directories: `magnetic` and `inertial`
-      * move the `tokamak.txt` and `stellarator.txt` files to the `magnetic` directory
-      * move the `iec.txt` and `laser.txt` files to the `inertial` directory
-      * list the contents of the `thermal` subdirectory of the `fission` directory
-      * create a symbolic link in your current directory (`fusion`) to the
-        `hybrid.txt` file that is in the `fission` directory
+   * make a new copy of the entire directory structure from its original
+     location (``~wilsonp/ep476-hw1``) to the current directory, and in
+     that new copy
+   * create an environment variable called ``NUCLEAR_PATH`` that refers to
+     the top-level directory of this copy
+   * change to the `fusion` directory
+   * rename the `tokamak.rst` file to be `tokamak.txt`
+   * make two directories: `magnetic` and `inertial`
+   * move the `tokamak.txt` and `stellarator.txt` files to the `magnetic` directory
+   * move the `iec.txt` and `laser.txt` files to the `inertial` directory
+   * list the contents of the `thermal` subdirectory of the `fission` directory
+   * create a symbolic link in your current directory (`fusion`) to the
+     `hybrid.txt` file that is in the `fission` directory
 
    Attach your script as a separate file to your email.
 
