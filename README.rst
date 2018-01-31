@@ -13,7 +13,13 @@ primarily in the Engineering Physics department.
 | **Email:** paul.wilson \_at\_ wisc.edu
 | **Phone:** 608-263-0807
 | **Slack:** `uw-ne.slack.com <http://uw-ne.slack.com>`_
+|
 
+
+**Jump to**
+
+* the `Syllabus`_.
+* the `Homework Assignments`_.
 
 Description
 -----------
@@ -37,17 +43,17 @@ Assessment
 ----------
 
 Homework: 60%
-=============
++++++++++++++
 
-    * approximately weekly
-    * continuation of in-class exercises
-    * develop skills and proficiency
+* approximately weekly
+* continuation of in-class exercises
+* develop skills and proficiency
 
 Project: 40%
-============
+++++++++++++
 
-    * implement your own software and/or contribution to an open source software project
-    * should use a variety of skills learned in class
+* implement your own software and/or contribution to an open source software project
+* should use a variety of skills learned in class
 
 
 Topics
@@ -146,6 +152,7 @@ Syllabus
 +-----------+------------------------------+------------------------------------+
 
 
+Homework Assignments
+--------------------
 
-
-
+* `Homework #1 <hw/hw1.rst>`_ - Due 1 PM, Feb 6, 2018, 
