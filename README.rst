@@ -15,9 +15,11 @@ primarily in the Engineering Physics department.
 | **Slack:** `uw-ne.slack.com <http://uw-ne.slack.com>`_
 
 
-Jump to the `Syllabus`_.
 
-Jump to the `Homework Assignments`_.
+Jump to
+
+* the `Syllabus`_.
+* the `Homework Assignments`_.
 
 Description
 -----------
