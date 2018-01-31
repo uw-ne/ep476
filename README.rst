@@ -17,6 +17,7 @@ primarily in the Engineering Physics department.
 
 
 Jump to
++++++++
 
 * the `Syllabus`_.
 * the `Homework Assignments`_.
