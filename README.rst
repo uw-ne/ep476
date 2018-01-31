@@ -13,11 +13,11 @@ primarily in the Engineering Physics department.
 | **Email:** paul.wilson \_at\_ wisc.edu
 | **Phone:** 608-263-0807
 | **Slack:** `uw-ne.slack.com <http://uw-ne.slack.com>`_
-
+|
 
 
 Jump to
-+++++++
+-------
 
 * the `Syllabus`_.
 * the `Homework Assignments`_.
