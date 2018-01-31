@@ -1,5 +1,5 @@
-Lecture #3: Working with files and your environment
-===================================================
+Lecture #3: Working with files
+==============================
 
 Learning objectives
 ---------------------
@@ -24,12 +24,6 @@ Learning objectives
       going to that directory
 
    #. Combine shell concepts with redirection and pipes
-
-   #. Read and change permissions on files to share with others
-
-   #. read and change environment variables and aliases
-
-   #. configure the environment by chaning the ``.bashrc`` file
 
 
 Activities
@@ -187,57 +181,6 @@ Activities
 
    * look at ``ethylcyclohexane.pdb``, determine which lines begin with
      ``AUTHOR`` and append those lines to ``AUTHOR.txt``
-     
-#. permissions
-
-   * find a partner and log in to each other's computer using ``ssh <username>@tux-??`
-
-   * change to the ``/tmp`` directory
-
-   * make a directory there with your username and copy your ``sports.txt``
-     file to there
-
-   * can you access each other's directories?
-
-   * examine the permissions of those directories
-
-   * change the permissions to allow ``cd`` but not ``ls``
-
-     * ``chmod o+x .`` or ``chmod a+x .`` or ``chmod o+x /tmp/<username>``
-
-   * make a subdirectory there with the other person's username
-
-   * who can see that new directory?
-
-   * change the permissions to allow ``cd`` and ``ls`` of the new directory
-
-   * place a copy of ``sport.txt`` into the new directory
-
-   * change the permissions of ``sport.txt`` to allow the other person to read it
-
-   * copy the other person's ``sport.txt`` file to your own directory in ``/tmp``
-
-   * who can read/see which files?
-
-#. managing your environment
-
-   * important environment variables
-
-     * ``env`` to see them all
-
-     * ``echo`` to see the values of each one: ``$USERNAME, $PWD, $PATH, $GROUP, $HOME, $PS1``
-
-   * set an environment variable with ``export bestClass=EP476`` - note: no ``$``
-
-   * set the prompt with ``export PS1="Have a great day <name>: [\w]"
-
-   * make an alias to ``ls -ltr`` with ``alias lT='ls -ltr'``
-
-   * save your environment by editing ``.bashrc``
-
-     * new prompt
-
-     * alias ``ls`` to be ``ls --color=auto``
 
 #. ``history``
 
