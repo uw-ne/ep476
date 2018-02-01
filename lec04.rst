@@ -101,7 +101,7 @@ Activities
      * have a size between 1000 and 10000 bytes and have ``ane`` in their name:
        ``find . -size +1000c -size -10000c -name "*ane*"``
 
-#. Loops
+#. Loops - consider python
 
    * basic syntax/construct:  ``for <loop variable> in <list of values>; do ....  ;done``
 
@@ -127,6 +127,42 @@ Activities
 #. Conditionals
 
    * basic syntax/construct:   ``if <test>; then ....; fi``
-       
+
+   * `many ways to format tests<http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_07_01.html>`_
+
+   * some common examples for in scripts:
+
+     * ``if [ "$#" -ne 1 ]; then`` will test whether there was 1 and only 1 argument
+
+     * ``if [ -a "$1" ]; then`` will test whether the file name specified in the first argument exists
+
+#. Making scripts
+
+   * like any language:
+
+     * set variables
+
+     * execute commands
+
+     * conditionals
+
+     * loops
+
+   * many ways to execute
+
+     * change file permissions to be executable and run like any command
+
+     * ``source <filename>``
+     
+#. Getting help
+
+   * It is very common for expert software engineers to rely on Google for assistance.
+
+   * One of the best resources is `Stack
+     Overflow<https://stackoverflow.com/>`_ and Q&A posted there often comes
+     up near the top of a Google search
+
+
+   
 `Command-line Cheat Sheet <http://www.catonmat.net/download/gnu-coreutils-cheat-sheet.pdf>`_
 
