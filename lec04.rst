@@ -121,7 +121,7 @@ Activities
        pattern
 
      * surrounding a command with backticks (`````) makes the output of that
-       command useable as a string, e.g. ``\`find . -name "*.xml"\``` for all
+       command useable as a string, e.g. ```find . -name "*.xml"``` for all
        the files in this directory or any subdirectory that match that string
 
 #. Conditionals
