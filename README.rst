@@ -16,10 +16,17 @@ primarily in the Engineering Physics department.
 |
 
 
-**Jump to**
+**Table of Contents**
 
-* the `Syllabus`_.
-* the `Homework Assignments`_.
+* `Description`_
+* `Textbook`_
+* `Assessment`_
+* `Topics`_
+* `Syllabus`_
+* `Homework Assignments`_
+* `Teaching and Learning Philosophy`_
+* `Code of Conduct`_
+* `Additional Resources`_
 
 Description
 -----------
@@ -156,3 +163,77 @@ Homework Assignments
 --------------------
 
 * `Homework #1 <hw/hw1.rst>`_ - Due 1 PM, Feb 6, 2018, 
+
+
+Teaching and Learning Philosophy
+--------------------------------
+
+Successful learners take ownership of their own learning and seek guidance
+from the instructor to guide their learning process.  The instructor's role is
+to chart a course through the material that will expose students to the
+concepts they need with appropriate examples.  The student's role is to pursue
+the course set the instrutor with a curious thirst for the nuances and details
+of the concepts they experience along the way.
+
+Code of Conduct
+---------------
+
+Please treat this classroom like a modern professional work environment:
+
+* All communication should be appropriate for a professional audience
+  including people of many different backgrounds. Sexual language and imagery
+  is not appropriate for any event.
+  
+* Be kind to others. Do not insult or put down other students.
+
+* Behave professionally. Remember that harassment and sexist, racist, or
+  exclusionary jokes are not appropriate.
+
+* Harassment includes offensive verbal comments related to gender, sexual
+  orientation, disability, physical appearance, body size, race, religion,
+  sexual images in public spaces, deliberate intimidation, stalking,
+  following, harassing photography or recording, sustained disruption of talks
+  or other events, inappropriate physical contact, and unwelcome sexual
+  attention.
+
+* Diversity is a source of strength, creativity, and innovation. All students
+  in this course are expected to value the contributions of each person and
+  respect the ways in which their identity, culture, background, experience,
+  status, abilities, and opinion enrich our learning experience and university
+  community.
+
+* Disrespectful behavior or comments directed toward any group or individual
+  will be addressed by the instructor.
+
+* Academic Integrity is critical to the mission of the University of
+  Wisconsin-Madison, a research institution with high academic standards and
+  rigor. All members of the University community play a role in fostering an
+  environment in which student learning is achieved in a fair, just, and
+  honest way.
+
+Additional Resources
+--------------------
+
+* The `Greater University Tutoring Service (GUTS)<http://www.guts.wisc.edu/>`_
+  is a Registered Student Organization (RSO) supported by segregated fees and
+  dedicated to connecting UW students with volunteer tutors for assistance
+  with academic courses, study skills, conversational English, and
+  intercultural exchange. We provide free tutoring and mentoring to hundreds
+  of students and university affiliates each semester!
+
+* `Tutoring-by-Request
+  (TBR)<https://www.engr.wisc.edu/academics/student-services/ulc/tutoring-by-request/>`_
+  is a privately funded program that allows authorized students to obtain
+  one-on-one help from tutors for a number of different courses. Typically TBR
+  provides tutors for over 60 courses engineering students commonly take.
+
+* Becoming a member of the `UW Student Section of the American Nuclear
+  Society<http://www.atomicbadger.org/>`_ is a great way to start your
+  participation in a professional organization related to your field, offering
+  social and professional opportunities throughout the year.  It can also be
+  an important place to find academic help from peers or older students.
+
+* `UHS mental health providers<https://www.uhs.wisc.edu/mental-health/>`_
+  understand the complexities of student life and offer an open, safe, and
+  confidential environment to help students through issues that may interfere
+  with their well-being, academic productivity, and happiness.
