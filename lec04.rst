@@ -1,16 +1,26 @@
-Lecture #2: Managing your environment & searching your files
-=============================================================
+Lecture #4: Managing your environment, searching your files, and bash scripts
+==============================================================================
 
 Learning objectives
 ---------------------
 
 #. Unix/Linux Command-line
 
-   #. Read and change permissions on files to share with others
-
    #. read and change environment variables and aliases
 
    #. configure the environment by chaning the ``.bashrc`` file
+
+   #. Read and change permissions on files to share with others
+
+   #. Search within files with ``grep``
+
+   #. Search among files with ``find``
+
+   #. Construct loops with bash
+
+   #. Invoke conditionals with bash
+
+   #. Write a bash script for repetitive tasks
 
 
 Activities
