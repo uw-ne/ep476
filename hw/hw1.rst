@@ -25,8 +25,9 @@ appropriate.  Send the text file to me by email.
    * make a new copy of the entire directory structure from its original
      location (``~wilsonp/ep476-hw1``) to the current directory, and in
      that new copy
-   * create an environment variable called ``NUCLEAR_PATH`` that refers to
-     the top-level directory of this copy
+   * create an environment variable called ``NUCLEAR_PATH`` that refers to the
+     absolute path of the top-level directory of this copy, i.e. the
+     destination of the above copy
    * change to the ``fusion`` directory
    * rename the ``tokamak.rst`` file to be ``tokamak.txt``
    * make two directories: ``magnetic`` and ``inertial``
@@ -38,7 +39,7 @@ appropriate.  Send the text file to me by email.
 
    Attach your script as a separate file to your email.
 
-#. Repeat question #3 with the new directory structure.
+#. Repeat question #2 with the new directory structure.
 
 #. Change the permissions of this directory - and the appropriate directories
    above it - so that others can view it.  It is advisable to give the minimum
