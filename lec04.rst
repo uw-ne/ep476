@@ -22,6 +22,10 @@ Learning objectives
 
    #. Write a bash script for repetitive tasks
 
+Textbook Reference
+-------------------
+
+Chapter 1, Pages 29-38
 
 Activities
 ----------        
