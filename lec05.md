@@ -2,6 +2,24 @@
 
 ## Lecture Objectives
 
+1. Describe the purpose and benefits of version control
+
+1. Describe the differences between centralized and distributed version control
+
+1. Describe the purpose of the required configuration settings for git
+
+1. Be able to initialize a new local repository
+
+1. Describe the different stages of a typical local editing workflow
+
+1. Perform an iteration of the local editing workflow
+
+1. Browse the log of a repository
+
+1. Reverse changes at different stages of the editing workflow
+
+1. Configure the repository to ignore specific files
+
 ## Textbook Reference
 
 Chapter 15, Pgaes 349-365
@@ -67,6 +85,8 @@ Chapter 15, Pgaes 349-365
    * `git commit`
    * `git log` - different variations: `--oneline` and `--oneline --graph --all --decorate`
 
+1. 
+
 1. Exploring the history
 
    * commit hashes
@@ -87,5 +107,11 @@ Chapter 15, Pgaes 349-365
    * create a file called '.gitignore'
    * `git status`
    * add `*.dat` to this file
-   
+
+1. Discuss typical branching workflow: branch/checkout, {local edit}, merge
+
+1. Create a branch
+
+   * `git branch venus`
+   * `git checkout venus`
    
