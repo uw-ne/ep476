@@ -25,6 +25,11 @@ Learning objectives
 
    #. Combine shell concepts with redirection and pipes
 
+Textbook Reference
+-------------------
+
+Chapter 1, Pages 17-26
+
 
 Activities
 ----------        

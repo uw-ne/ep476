@@ -31,6 +31,10 @@ Learning objectives
 
    #. Create files with ``touch``, ``cat`` and ``nano``
 
+Textbook Reference
+-------------------
+
+Chapter 1, Pages 1-17
 
 Activities
 ----------        
