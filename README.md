@@ -1,23 +1,21 @@
-EP476 - Introduction to Scientific Computing for Engineering Physics
-====================================================================
+# EP476 - Introduction to Scientific Computing for Engineering Physics
 
 Welcome to EP476, "Scientific Computing for Engineering Physics".  This course
 will focus on bringing important scientific software development skills to students
 primarily in the Engineering Physics department.
 
 
-| **Location:** 2324 Engineering Hall
-| **Class times:** TR 1:00-2:15 PM
-| **Office Hours:** W 4-5:30 PM
-| **Instructor:** Prof. Paul Wilson
-| **Office:** 443 Engineering Research Building
-| **Email:** paul.wilson \_at\_ wisc.edu
-| **Phone:** 608-263-0807
-| **Slack:** `uw-ne.slack.com <http://uw-ne.slack.com>`_
-|
+**Location:** 2324 Engineering Hall
+**Class times:** TR 1:00-2:15 PM
+**Office Hours:** W 4-5:30 PM
+**Instructor:** Prof. Paul Wilson
+**Office:** 443 Engineering Research Building
+**Email:** paul.wilson \_at\_ wisc.edu
+**Phone:** 608-263-0807
+**Slack:** `uw-ne.slack.com <http://uw-ne.slack.com>`_
 
 
-**Table of Contents**
+## Table of Contents
 
 * `Description`_
 * `Textbook`_
@@ -29,8 +27,7 @@ primarily in the Engineering Physics department.
 * `Code of Conduct`_
 * `Additional Resources`_
 
-Description
------------
+## Description
 
 Scientific software development has transitioned from a field devoted almost
 entirely to numerical methods to one that increasingly relies on more advanced
@@ -41,31 +38,26 @@ This course is designed to introduce a variety of concepts that will make
 engineers and scientists more effective at developing software that
 facilitates modern engineering analysis.  
 
-Textbook
----------
+## Textbook
 
-`"Effective Computation in Physics", Anthony Scopatz & Kathryn Huff, O'Reilly, 2015 <http://shop.oreilly.com/product/0636920033424.do>`_
+["Effective Computation in Physics", Anthony Scopatz & Kathryn Huff, O'Reilly, 2015](<http://shop.oreilly.com/product/0636920033424.do)
 
 
-Assessment
-----------
+## Assessment
 
-Homework: 60%
-+++++++++++++
+### Homework: 60%
 
 * approximately weekly
 * continuation of in-class exercises
 * develop skills and proficiency
 
-Project: 40%
-++++++++++++
+### Project: 40%
 
 * implement your own software and/or contribution to an open source software project
 * should use a variety of skills learned in class
 
 
-Topics
-------
+## Topics
 
 * Command-line environment in Unix/Linux
 * Version control with git
@@ -81,7 +73,7 @@ Topics
 
   * Working with compiled languages: Using a compiler
   * Fixing mistakes: Using a debugger
-  * Testing performance: Using a profiler  
+  * Testing performance: Using a profiler
 
 * Build & Installation Management
 * Software Design
@@ -91,24 +83,23 @@ Topics
   
 * Scientific Computing
 
-  * Numerical Methods  
+  * Numerical Methods
   * Visualization
 
-Syllabus
---------
+## Syllabus
 
 +-----------+-------------------------------------------------------------------+
 | Week 1    | Intro, Shell, Filesystem                                          |
 |  Jan      +------------------------------+------------------------------------+
-|  23 & 25  | `Lecture #1 <lec01.rst>`_    |  `Lecture #2 <lec02.rst>`_         |
+|  23 & 25  | [Lecture #1](lec01.md)       |  [Lecture #2](lec02.rst)           |
 +-----------+------------------------------+------------------------------------+
 | Week 2    | Filesystem, Environment & Shell programming                       |
 |  Jan 30 & +------------------------------+------------------------------------+
-|  Feb 1    | `Lecture #3 <lec03.rst>`_    |   `Lecture #4 <lec04.rst>`_        |
+|  Feb 1    | [Lecture #3](lec03.rst)      |  [Lecture #4](lec04.rst)           |
 +-----------+------------------------------+------------------------------------+
 | Week 3    | Version Control with git - local and remote                       |
 |  Feb      +------------------------------+------------------------------------+
-|  6 & 8    | `Lecture #5 <lec05.md>`_     |                                    |
+|  6 & 8    | [Lecture #5](lec05.md)       |                                    |
 +-----------+------------------------------+------------------------------------+   
 | Week 4    |                                                                   |
 |  Feb      +------------------------------+------------------------------------+
@@ -160,14 +151,12 @@ Syllabus
 +-----------+------------------------------+------------------------------------+
 
 
-Homework Assignments
---------------------
+## Homework Assignments
 
 * `Homework #1 <hw/hw1.rst>`_ - Due 1 PM, Feb 6, 2018, 
 
 
-Teaching and Learning Philosophy
---------------------------------
+## Teaching and Learning Philosophy
 
 Successful learners take ownership of their own learning and seek guidance
 from the instructor to guide their learning process.  The instructor's role is
@@ -176,8 +165,7 @@ concepts they need with appropriate examples.  The student's role is to pursue
 the course set the instrutor with a curious thirst for the nuances and details
 of the concepts they experience along the way.
 
-Code of Conduct
----------------
+## Code of Conduct
 
 Please treat this classroom like a modern professional work environment:
 
@@ -212,8 +200,7 @@ Please treat this classroom like a modern professional work environment:
   environment in which student learning is achieved in a fair, just, and
   honest way.
 
-Additional Resources
---------------------
+## Additional Resources
 
 * The `Greater University Tutoring Service (GUTS)<http://www.guts.wisc.edu/>`_
   is a Registered Student Organization (RSO) supported by segregated fees and
