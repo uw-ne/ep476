@@ -6,18 +6,18 @@ primarily in the Engineering Physics department.
 
 
 **Location:** 2324 Engineering Hall\
-**Class times:** TR 1:00-2:15 PM  
-**Office Hours:** W 4-5:30 PM  
-**Instructor:** Prof. Paul Wilson  
-**Office:** 443 Engineering Research Building  
-**Email:** paul.wilson \_at\_ wisc.edu  
-**Phone:** 608-263-0807  
+**Class times:** TR 1:00-2:15 PM\
+**Office Hours:** W 4-5:30 PM\
+**Instructor:** Prof. Paul Wilson\
+**Office:** 443 Engineering Research Building\
+**Email:** paul.wilson \_at\_ wisc.edu\
+**Phone:** 608-263-0807\
 **Slack:** [uw-ne.slack.com](http://uw-ne.slack.com)
 
 
 ## Table of Contents
 
-* `Description`_
+* [Description]
 * `Textbook`_
 * `Assessment`_
 * `Topics`_
