@@ -17,15 +17,15 @@ primarily in the Engineering Physics department.
 
 ## Table of Contents
 
-* [Description](#Description)
-* [Textbook](#Textbook)
-* [Assessment](#Assessment)
-* [Topics](#Topics)
-* [Syllabus](#Syllabus)
-* [Homework Assignments](#Homework-Assignments)
-* [Teaching and Learning Philosophy](#Teaching-and-Learning-Philosophy)
-* [Code of Conduct](#Code-of-Conduct)
-* [Additional Resources](#Additional-Resources)
+* [Description](#description)
+* [Textbook](#textbook)
+* [Assessment](#assessment)
+* [Topics](#topics)
+* [Syllabus](#syllabus)
+* [Homework Assignments](#homework-assignments)
+* [Teaching and Learning Philosophy](#teaching-and-learning-philosophy)
+* [Code of Conduct](#code-of-conduct)
+* [Additional Resources](#additional-resources)
 
 ## Description
 
