@@ -89,7 +89,7 @@ facilitates modern engineering analysis.
 ## Syllabus
 
 
-Intro, Shell, Filesystem     |  Something else
+<td colspan=2>Intro, Shell, Filesystem
 -----------------------------|-----------------------------------
 [Lecture #1](lec01.md)       |  [Lecture #2](lec02.rst)
 
