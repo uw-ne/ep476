@@ -88,6 +88,10 @@ facilitates modern engineering analysis.
 
 ## Syllabus
 
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple  <td colspan=2>double
+
 
 <td colspan=2>Intro, Shell, Filesystem
 -----------------------------|-----------------------------------
