@@ -17,7 +17,7 @@ primarily in the Engineering Physics department.
 
 ## Table of Contents
 
-* [Description]
+* [Description](#Description)
 * `Textbook`_
 * `Assessment`_
 * `Topics`_
