@@ -1,12 +1,11 @@
-Lecture #1: Introductions: Course and Command-line
-=====================================================
+# Lecture #1: Introductions: Course and Command-line
 
 1. Introductions
 2. Motivation for course
-     * `Best Practices for Scientific Computing <http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745>`_
-     * `Good Enough Practices for Scientific Computing <http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510>`_
-     * `If You Can't Reproduce It, Is it Still Science? <BestPractices.ppt>`_
-3. Review `syllabus <README.rst>`_
+     * [Best Practices for Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
+     * [Good Enough Practices for Scientific Computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+     * [If You Can't Reproduce It, Is it Still Science?](BestPractices.ppt)
+3. Review [syllabus](README.rst)
 4. Options for working environment when not in class
     * CAE Linux via ssh
        * Pros: least software requirements, works the same from anywhere
@@ -20,7 +19,7 @@ Lecture #1: Introductions: Course and Command-line
     * Laptop virtual machine
        * Pros: work in customized linux environment
        * Cons: may be resource intensive
-    * Commercial cloud (e.g. `Digital Ocean <http://www.digitalocean.com>`_)
+    * Commercial cloud (e.g. [Digital Ocean](http://www.digitalocean.com))
        * Pros: work in customized linux environment, learn cloud computing
        * Cons: cost, requires network and may requires some network knowledge
 
