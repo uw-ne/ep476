@@ -148,7 +148,6 @@ facilitates modern engineering analysis.
 * Lecture #28 - Final Project Presentatinos
 
 
-
 ## Homework Assignments
 
 * [Homework #1](hw/hw1.rst) - Due 1 PM, Feb 6, 2018, 
