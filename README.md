@@ -18,14 +18,14 @@ primarily in the Engineering Physics department.
 ## Table of Contents
 
 * [Description](#Description)
-* `Textbook`_
-* `Assessment`_
-* `Topics`_
-* `Syllabus`_
-* `Homework Assignments`_
-* `Teaching and Learning Philosophy`_
-* `Code of Conduct`_
-* `Additional Resources`_
+* [Textbook](#Textbook)
+* [Assessment](#Assessment)
+* [Topics](#Topics)
+* [Syllabus](#Syllabus)
+* [Homework Assignments](#Homework Assignments)
+* [Teaching and Learning Philosophy](#Teaching and Learning Philosophy)
+* [Code of Conduct](#Code of Conduct)
+* [Additional Resources](#Additional Resources)
 
 ## Description
 
