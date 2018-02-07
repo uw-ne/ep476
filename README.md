@@ -22,10 +22,10 @@ primarily in the Engineering Physics department.
 * [Assessment](#Assessment)
 * [Topics](#Topics)
 * [Syllabus](#Syllabus)
-* [Homework Assignments](#Homework Assignments)
-* [Teaching and Learning Philosophy](#Teaching and Learning Philosophy)
-* [Code of Conduct](#Code of Conduct)
-* [Additional Resources](#Additional Resources)
+* [Homework Assignments](#Homework-Assignments)
+* [Teaching and Learning Philosophy](#Teaching-and-Learning-Philosophy)
+* [Code of Conduct](#Code-of-Conduct)
+* [Additional Resources](#Additional-Resources)
 
 ## Description
 
