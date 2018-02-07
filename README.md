@@ -153,7 +153,7 @@ facilitates modern engineering analysis.
 
 ## Homework Assignments
 
-* `Homework #1 <hw/hw1.rst>`_ - Due 1 PM, Feb 6, 2018, 
+* [Homework #1](hw/hw1.rst) - Due 1 PM, Feb 6, 2018, 
 
 
 ## Teaching and Learning Philosophy
@@ -202,26 +202,26 @@ Please treat this classroom like a modern professional work environment:
 
 ## Additional Resources
 
-* The `Greater University Tutoring Service (GUTS)<http://www.guts.wisc.edu/>`_
+* The [Greater University Tutoring Service (GUTS)](http://www.guts.wisc.edu/)
   is a Registered Student Organization (RSO) supported by segregated fees and
   dedicated to connecting UW students with volunteer tutors for assistance
   with academic courses, study skills, conversational English, and
   intercultural exchange. We provide free tutoring and mentoring to hundreds
   of students and university affiliates each semester!
 
-* `Tutoring-by-Request
-  (TBR)<https://www.engr.wisc.edu/academics/student-services/ulc/tutoring-by-request/>`_
+* [Tutoring-by-Request
+  (TBR)](https://www.engr.wisc.edu/academics/student-services/ulc/tutoring-by-request/)
   is a privately funded program that allows authorized students to obtain
   one-on-one help from tutors for a number of different courses. Typically TBR
   provides tutors for over 60 courses engineering students commonly take.
 
-* Becoming a member of the `UW Student Section of the American Nuclear
-  Society<http://www.atomicbadger.org/>`_ is a great way to start your
+* Becoming a member of the [UW Student Section of the American Nuclear
+  Society](http://www.atomicbadger.org/) is a great way to start your
   participation in a professional organization related to your field, offering
   social and professional opportunities throughout the year.  It can also be
   an important place to find academic help from peers or older students.
 
-* `UHS mental health providers<https://www.uhs.wisc.edu/mental-health/>`_
+* [UHS mental health providers](https://www.uhs.wisc.edu/mental-health/)
   understand the complexities of student life and offer an open, safe, and
   confidential environment to help students through issues that may interfere
   with their well-being, academic productivity, and happiness.
