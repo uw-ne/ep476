@@ -88,16 +88,11 @@ facilitates modern engineering analysis.
 
 ## Syllabus
 
-<table>
-<tr>
-<td rowspan=3>Week 1 </br>Jan </br> 23 &amp; 25</td>
-<td colspan=2>Intro, Shell, Filesystem</td>
-</tr>
-<tr>
-  <td>[Lecture #1](lec01.md)</td>
-  <td>[Lecture #2](lec02.md)</td>
-  </tr>
-  </table>
+### Week 1 (Jan 23 & 25): Intro, Shell, Filesystem
+* [Lecture #1](lec01.md)
+* [Lecture #2](lec02.md)
+
+
   
 |-----------|------------------------------|------------------------------------|
 | Week 1    | Intro, Shell, Filesystem                                          |
