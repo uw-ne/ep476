@@ -150,7 +150,7 @@ facilitates modern engineering analysis.
 
 ## Homework Assignments
 
-* [Homework #1](hw/hw1.rst) - Due 1 PM, Feb 6, 2018, 
+* [Homework #1](hw/hw1.md) - Due 1 PM, Feb 6, 2018, 
 
 
 ## Teaching and Learning Philosophy
