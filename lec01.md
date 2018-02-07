@@ -19,7 +19,7 @@
     * Laptop virtual machine
        * Pros: work in customized linux environment
        * Cons: may be resource intensive
-    * Commercial cloud (e.g. [Digital Ocean](http://www.digitalocean.com>))
+    * Commercial cloud (e.g. [Digital Ocean](http://www.digitalocean.com))
        * Pros: work in customized linux environment, learn cloud computing
        * Cons: cost, requires network and may requires some network knowledge
 
