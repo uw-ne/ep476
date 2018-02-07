@@ -92,6 +92,13 @@ facilitates modern engineering analysis.
 * [Lecture #1](lec01.md)
 * [Lecture #2](lec02.md)
 
+### Week 2 (Jan 30 & Feb 1): Filesystem, Environment & Shell Programming
+* [Lecture #3](lec03.md)
+* [Lecture #4](lec04.md)
+
+### Week 3 (Feb 6  & Feb 8): Version Control with git - Local and Remote
+* [Lecture #5](lec05.md)
+* Lecture #6
 
   
 |-----------|------------------------------|------------------------------------|
