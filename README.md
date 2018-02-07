@@ -5,7 +5,7 @@ will focus on bringing important scientific software development skills to stude
 primarily in the Engineering Physics department.
 
 
-**Location:** 2324 Engineering Hall  
+**Location:** 2324 Engineering Hall\
 **Class times:** TR 1:00-2:15 PM  
 **Office Hours:** W 4-5:30 PM  
 **Instructor:** Prof. Paul Wilson  
