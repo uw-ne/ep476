@@ -1,5 +1,4 @@
-Lecture #1: Introductions: Course and Command-line
-=====================================================
+# Lecture #1: Introductions: Course and Command-line
 
 1. Introductions
 2. Motivation for course
