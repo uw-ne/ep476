@@ -1,7 +1,6 @@
-## Homework #1
+## EP476: Introduction to Scientific Computing for Engineering Physics
 
-# EP476: Introduction to Scientific Computing for Engineering Physics
-
+# Homework #1
 
 **Due: Tuesday, February, 6, 1:00 PM**
 
@@ -27,6 +26,8 @@ appropriate.  Send the text file to me by email.
    * create an environment variable called `NUCLEAR_PATH` that refers to the
      absolute path of the top-level directory of this copy, i.e. the
      destination of the above copy
+   * Create an alias that will show you a long listing of the `fission`
+     directory that you copied above.
    * change to the `fusion` directory
    * rename the `tokamak.rst` file to be `tokamak.txt`
    * make two directories: `magnetic` and `inertial`
@@ -46,9 +47,6 @@ appropriate.  Send the text file to me by email.
 
 1. What is the command to change your prompt and remove the username and
    hostname portion? 
-
-1. Create an alias that will show you a long listing of the `fission`
-   directory that you copied above.
 
 1. In what ways does tab completion improve both accuracy and efficiency when
    working with the command-line?
