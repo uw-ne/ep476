@@ -89,8 +89,8 @@ facilitates modern engineering analysis.
 ## Syllabus
 
 ### Week 1 (Jan 23 & 25): Intro, Shell, Filesystem
-* [Lecture #1](lec01.md)
-* [Lecture #2](lec02.md)
+
+| [Lecture #1](lec01.md) | [Lecture #2](lec02.md) | 
 
 ### Week 2 (Jan 30 & Feb 1): Filesystem, Environment & Shell Programming
 * [Lecture #3](lec03.md)
