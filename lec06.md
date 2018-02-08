@@ -120,3 +120,20 @@ Chapter 12, pages 371-380
    1. push your branch to your repo
    1. review your PR - has it changed?
 
+## Bonus topics
+
+1. Change your prompt to constantly show you some git status information
+
+   There are a number of different solutions shared on the internet for
+   changing your bash prompt to show you the current branch you are in, and
+   other information.  Here are just a few:
+ 
+   * [Put Your Git Branch in Your Bash Prompt](http://code-worrier.com/blog/git-branch-in-bash-prompt/)
+   * [git-prompt.sh from the git project](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)
+   * [bash-git-prompt adds additional info](https://github.com/magicmonty/bash-git-prompt)
+
+1. Your life will be much simpler if you don't have to type your password
+   every time you interact with github.  I encourage you to set up an ssh key
+   for this:
+
+    * [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
