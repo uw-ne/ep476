@@ -63,26 +63,19 @@ facilitates modern engineering analysis.
 * Version control with git
 * Healthy software development communities
 * Programming for human efficiency and maintainability
-
   * Programming style: write code for people
   * Programming modularity: don't repeat yourself
-
 * Unit testing for robustness 
 * Continuous integration
 * Understanding your tools
-
   * Working with compiled languages: Using a compiler
   * Fixing mistakes: Using a debugger
   * Testing performance: Using a profiler
-
 * Build & Installation Management
 * Software Design
-
   * Separation of concerns
   * Introduction to object-oriented design
-  
 * Scientific Computing
-
   * Numerical Methods
   * Visualization
 
@@ -91,7 +84,7 @@ facilitates modern engineering analysis.
 ### Week 1 (Jan 23 & 25): Intro, Shell, Filesystem
 
 * [Lecture #1](lectures/lec01.md): Introduction
-* [Lecture #2](lectures/lec02.md): Nacigating the filesystem
+* [Lecture #2](lectures/lec02.md): Navigating the filesystem
 
 ### Week 2 (Jan 30 & Feb 1): Filesystem, Environment & Shell Programming
 * [Lecture #3](lectures/lec03.md): Working with files
