@@ -20,7 +20,7 @@ to solve a particular type of physics or engineering problem.
 
 ## Timeline
 
-### February 13: [Project proposal](https://classroom.github.com/a/hxZ5NU1l) (5%)
+### February 13: [Project proposal](https://classroom.github.com/a/U0BdoYro) (5%)
 
 In 300-500 words, describe what your project will entail and the scope of your
 contribution.  You should include the set of skills that you think this
