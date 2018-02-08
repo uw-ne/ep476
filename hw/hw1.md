@@ -43,7 +43,8 @@ appropriate.  Send the text file to me by email.
 
 1. Change the permissions of this directory - and the appropriate directories
    above it - so that others can view it.  It is advisable to give the minimum
-   possible permissions to the directories above this one.
+   possible permissions to the directories above this one.  I will check these
+   permissions by accessing the directory indicated by `NUCLEAR_PATH` above.
 
 1. What is the command to change your prompt and remove the username and
    hostname portion? 
