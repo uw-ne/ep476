@@ -10,7 +10,7 @@
 1. add remote repos to your local clone
 1. create a pull request
 1. comment on a pull request
-1. ensure that your fork (and clone) are syncronized with changes in the
+1. ensure that your fork (and clone) are synchronized with changes in the
    "upstream" repo
 1. amend a pull request based on feedback
 
@@ -18,7 +18,7 @@
 
 Chapter 12, pages 371-380
 
-## Activiteis
+## Activities
 
 1. Add a layer to the onion with branching (10 min)
 
@@ -60,7 +60,7 @@ Chapter 12, pages 371-380
 
 1. discuss different options: esp. bitbucket & github (1 min)
 
-1. dicuss **basic** workflow of remote interaction (5 min)
+1. discuss **basic** workflow of remote interaction (5 min)
 
    * simple server or cloud service
 
