@@ -151,7 +151,7 @@ facilitates modern engineering analysis.
 ## Homework Assignments
 
 * [Homework #1](hw/hw1.md) - Due 1 PM, Feb 6, 2018,
-* [Video #1](hw/video.md) - Due 1 PM, Feb 13, 2018
+* [Video #1](https://classroom.github.com/a/8pJ5yRyl) - Due 1 PM, Feb 13, 2018
 
 ## Project Assignments
 
