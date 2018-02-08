@@ -1,8 +1,22 @@
-# Lecture #5: Introduction to Version Control with Git
+# Lecture #6: Collaborative development with git and Github
 
 ## Lecture Objectives
 
+1. use branching & merging to isolate changes to code
+1. describe the benefits of a cloud-based git service
+1. describe a situation in which a local server-based repo is sufficient
+1. clone a github based repo
+1. push changes from a local clone of a repo to the cloud-based repo
+1. add remote repos to your local clone
+1. create a pull request
+1. comment on a pull request
+1. ensure that your fork (and clone) are syncronized with changes in the
+   "upstream" repo
+1. amend a pull request based on feedback
+
 ## Textbook Reference
+
+Chapter 12, pages 371-380
 
 ## Activiteis
 
