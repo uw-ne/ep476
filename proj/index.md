@@ -20,18 +20,17 @@ factors, and those teams will work collaboratively towards a software project
 to solve a particular type of physics or engineering problem.
 
 
-Timeline:
-==========
+## Timeline
 
-February 13: Project proposal (5%)
-++++++++++++++++++++++++++++++++++
+### February 13: Project proposal (5%)
+
 
 In 300-500 words, describe what your project will entail and the scope of your
 contribution.  You should include the set of skills that you think this
 project will require you to demonstrate.
 
-March 13: Project timeline (5%)
-+++++++++++++++++++++++++++++++
+### March 13: Project timeline (5%)
+
 
 Provide a detailed timeline for completing your project.  Break the project
 down into a series of tasks and identify when you will aim to complete each
@@ -39,15 +38,14 @@ task.  Estimate how many hours of your time it will take to complete each
 task.  Identify when your project will require feedback from others in order
 to continue making progress.
 
-April 10: Intermediate report (5%)
-+++++++++++++++++++++++++++++++++
+### April 10: Intermediate report (5%)
+
 
 Provide a status report of each of the tasks identified in your timeline.  Be
 prepared to discuss possible changes to your timeline to accommodate the
 current status.
 
-May 6: Presentation of project progress (5%)
-+++++++++++++++++++++++++++++++++++++++++++++++++
+### May 6: Presentation of project progress (5%)
 
 Brief presentations of projects to include:
 
@@ -55,8 +53,7 @@ Brief presentations of projects to include:
 * assessment of progress vs. timeline
 * demonstration of course skills
 
-May 11: Final status (20%)
-+++++++++++++++++++++++++++
+### May 11: Final status (20%)
 
 All contributions will be complete and final assessment will occur based on
 progress to this point.
