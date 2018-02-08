@@ -155,7 +155,7 @@ facilitates modern engineering analysis.
 
 ## Project Assignments
 
-* [Proposal](https://classroom.github.com/a/hxZ5NU1l) - Due 1 PM, Feb 13, 2018
+* [Proposal](https://classroom.github.com/a/U0BdoYro) - Due 1 PM, Feb 13, 2018
 
 ## Teaching and Learning Philosophy
 
