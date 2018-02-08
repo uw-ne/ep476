@@ -51,9 +51,9 @@ facilitates modern engineering analysis.
 * continuation of in-class exercises
 * develop skills and proficiency
 
-### Project: 40%
+### [Project](proj/index.md): 40%
 
-* implement your own software and/or contribution to an open source software project
+* implement your own software 
 * should use a variety of skills learned in class
 
 
