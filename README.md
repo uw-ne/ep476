@@ -90,20 +90,20 @@ facilitates modern engineering analysis.
 
 ### Week 1 (Jan 23 & 25): Intro, Shell, Filesystem
 
-* [Lecture #1](lec01.md)
-* [Lecture #2](lec02.md)
+* [Lecture #1](lec01.md): Introduction
+* [Lecture #2](lec02.md): Nacigating the filesystem
 
 ### Week 2 (Jan 30 & Feb 1): Filesystem, Environment & Shell Programming
-* [Lecture #3](lec03.md)
-* [Lecture #4](lec04.md)
+* [Lecture #3](lec03.md): Working with files
+* [Lecture #4](lec04.md): Managing your environment and searching files
 
 ### Week 3 (Feb 6  & Feb 8): Version Control with git - Local and Remote
-* [Lecture #5](lec05.md)
-* Lecture #6
+* [Lecture #5](lec05.md): Introduction to version control with git
+* [Lecture #6](lec06.md): Collaborative development with git and Github
 
 ### Week 4 (Feb 13 & Feb 15): 
-* Lecture #7
-* Lecture #8
+* Lecture #7: Managing collaborative contributions and conflicts
+* Lecture #8: Project scoping and design
 
 ### Week 5 (Feb 20 & Feb 22): 
 * Lecture #9
