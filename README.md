@@ -150,8 +150,12 @@ facilitates modern engineering analysis.
 
 ## Homework Assignments
 
-* [Homework #1](hw/hw1.md) - Due 1 PM, Feb 6, 2018, 
+* [Homework #1](hw/hw1.md) - Due 1 PM, Feb 6, 2018,
+* [Video #1](hw/video.md) - Due 1 PM, Feb 13, 2018
 
+## Project Assignments
+
+* [Proposal](https://classroom.github.com/a/hxZ5NU1l) - Due 1 PM, Feb 13, 2018
 
 ## Teaching and Learning Philosophy
 
