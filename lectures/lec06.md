@@ -1,4 +1,4 @@
-# Lecture #6: Collaborative development with git and Github
+# Lecture #6: Branching and working with remote repositories
 
 ## Lecture Objectives
 
@@ -16,11 +16,13 @@
 
 ## Textbook Reference
 
-Chapter 12, pages 371-380
+Chapter 15, pages 365-367
+
+Chapter 16, pages 
 
 ## Activities
 
-1. Add a layer to the onion with branching (10 min)
+1. Add a layer to the onion with branching (20 min)
 
    * describe branching workflow
    * go to `planets` directory
@@ -34,7 +36,7 @@ Chapter 12, pages 371-380
    * look at differences between branches
    * merge `venus` into `master`
 
-1. Introduce rebase (15 min)
+1. Introduce rebase (20 min)
 
    * from `master` create and switch to a new branch `earth`
    * create/add/commit a file `earth.txt` with some interesting fact about earth
@@ -50,7 +52,7 @@ Chapter 12, pages 371-380
    * compare `master` vs `jupiter`
    * merge `jupiter` into `master`
 
-1. discuss differences between simple server and cloud service
+1. discuss differences between simple server and cloud service (4 min)
 
    * Code browsing with syntax highlighting
    * Collaboration & access control
@@ -67,7 +69,7 @@ Chapter 12, pages 371-380
      * clone once
      * fetch, merge/rebase, (edit, add, commit) x many, push 
 
-1. fork/clone/add element to Chart of Nuclides  (8 min)
+1. fork/clone/add element to Chart of Nuclides  (15 min)
    1. browse to CoN site
       * explore GH repo
    1. fork repo
@@ -79,46 +81,6 @@ Chapter 12, pages 371-380
    1. push your changed branch back to your repo
       * explore your changed repo
 
-1. connect to someone else's Chart of Nuclides repo  (8 min)
-   1. add gonuke as remote
-   1. fetch gonuke's repo
-   1. look at branches
-   1. compare branches
-   1. add uw-ne as remote
-   1. fetch uw-ne
-   1. look at branches
-   1. compare branches: esp. `master` vs `uw-ne/master`
-
-1. Pull requests (12 min)
-   1. definition of pull request - cloud service specific
-   1. launch pull request from your repo
-   1. examine pull requests
-   1. comment on someone else's pull request
-      * opportunity to practice effective communication (e.g. please &
-        thankyou)
-      * comment on individual lines
-      * comment on the pull request on the whole
-   1. Notice access controls
-   1. request a review from your pull request
-
-1. Keeping your repo in sync  (8 min)
-   1. merge `gonuke` pull request
-   1. review your PR - has it changed?
-   1. fetch from `uw-ne` again
-      * notice what has changed
-   1. compare `master` vs `uw-ne/master`
-   1. rebase `master` onto `uw-ne/master`
-   1. push your `master` branch to your repo to keep it sync'ed
-   1. switch to your element branch
-   1. rebase your branch onto `uw-ne/master` (or `master`)
-   1. push your element branch to your repo now that it's rebased
-   1. review your PR - has it changed?
-
-1. Update your PR (8 min)
-   1. switch to your element branch
-   1. make (at least) one edit/add/commit cycle (perhaps respond to comment?)
-   1. push your branch to your repo
-   1. review your PR - has it changed?
 
 ## Bonus topics
 

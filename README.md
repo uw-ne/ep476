@@ -92,10 +92,10 @@ facilitates modern engineering analysis.
 
 ### Week 3 (Feb 6  & Feb 8): Version Control with git - Local and Remote
 * [Lecture #5](lectures/lec05.md): Introduction to version control with git
-* [Lecture #6](lectures/lec06.md): Collaborative development with git and Github
+* [Lecture #6](lectures/lec06.md): Branching and working with remote repositories
 
 ### Week 4 (Feb 13 & Feb 15): 
-* Lecture #7: Managing collaborative contributions and conflicts
+* [Lecture #7](lectures/lec07.md): Managing collaborative contributions and conflicts
 * Lecture #8: Project scoping and design
 
 ### Week 5 (Feb 20 & Feb 22): 
