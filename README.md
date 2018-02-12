@@ -20,6 +20,7 @@ primarily in the Engineering Physics department.
 * [Description](#description)
 * [Textbook](#textbook)
 * [Assessment](#assessment)
+* [Grades](https://classroom.github.com/a/qRHtYCFd)
 * [Topics](#topics)
 * [Syllabus](#syllabus)
 * [Homework Assignments](#homework-assignments)
