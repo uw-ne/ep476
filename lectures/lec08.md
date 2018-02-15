@@ -23,7 +23,7 @@
       * initial requirements
       * planning for future requirements
    1. demonstrate with project ideas
-       
+       * pick 2: time-dependent neutron diffusion & parametric FCI
 
 1. Developing project plan
    1. Stages of development
@@ -31,7 +31,8 @@
       * complexity - physics approximations, linearity, etx
       * algorithmic breakdown - input, processing steps, output
    1. demonstrate with project ideas
-
+      * pick 2: Monte Carlo radiation transport & shark skin CFD
+   
 1. Designing data models and interfaces
    1. Many reason to break project into distinct pieces with well-defined
       interfaces
