@@ -6,12 +6,24 @@
 
 ## Activities
 
+1. Proposal ideas
+   * parametric calling of other software: FCI, MCNP, lattice physics
+   * simplified interface (GUI) for other software
+   * Monte Carlo radiation transport
+   * PDE/eigenvalue problems:
+      * transient thermal conduction in a fuel pebble
+      * vibration in a guitar string
+      * CFD along shark skin
+      * time-dependent neutron diffusion
+      * finite element electrostatics/dynamics
+
 1. Understanding requirements
    1. formal processes
    1. research software
       * initial requirements
       * planning for future requirements
    1. demonstrate with project ideas
+       
 
 1. Developing project plan
    1. Stages of development
