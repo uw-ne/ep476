@@ -22,10 +22,10 @@ appropriate.  Send the text file to me by email.
 
    * make a new copy of the entire directory structure from its original
      location (`~wilsonp/ep476-hw1`) to the current directory, and in
-     that new copy
-   * create an environment variable called `NUCLEAR_PATH` that refers to the
+     that new copy:
+   * create an environment variable called `NUCLEAR_DIR` that refers to the
      absolute path of the top-level directory of this copy, i.e. the
-     destination of the above copy
+     directory that was created by making the copy
    * Create an alias that will show you a long listing of the `fission`
      directory that you copied above.
    * change to the `fusion` directory
@@ -36,18 +36,18 @@ appropriate.  Send the text file to me by email.
    * list the contents of the `thermal` subdirectory of the `fission` directory
    * create a symbolic link in your current directory (`fusion`) to the
      `hybrid.txt` file that is in the `fission` directory
+   * Change the permissions of the directory referenced in `NUCLEAR_DIR`, and
+     all of the directories and files below it, so that others can view it.
+     You may also have to change the permissions of some directories above it
+     to ensure that it is accessible. It is advisable to give the minimum
+     possible permissions to the directories above this one.  I will check
+     these permissions by accessing the directory indicated by `NUCLEAR_DIR`
+     above.
+   * change your prompt to remove only the username and hostname portion
 
    Attach your script as a separate file to your email.
 
 1. Repeat question #2 with the new directory structure.
-
-1. Change the permissions of this directory - and the appropriate directories
-   above it - so that others can view it.  It is advisable to give the minimum
-   possible permissions to the directories above this one.  I will check these
-   permissions by accessing the directory indicated by `NUCLEAR_PATH` above.
-
-1. What is the command to change your prompt and remove the username and
-   hostname portion? 
 
 1. In what ways does tab completion improve both accuracy and efficiency when
    working with the command-line?
