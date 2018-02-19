@@ -2,7 +2,14 @@
 
 ## Learning Objectives
 
+* develop a detailed specification for a software project
+* develop a project plan for a software projecct including:
+    * different stages of development
+    * a decomposition of the problem at each stage
+
 ## Textbook
+
+N/A
 
 ## Activities
 
@@ -31,8 +38,8 @@
       * complexity - physics approximations, linearity, etx
       * algorithmic breakdown - input, processing steps, output
    1. demonstrate with project ideas
-      * pick 2: Monte Carlo radiation transport & shark skin CFD
-   
+      * same two projects as above
+
 1. Designing data models and interfaces
    1. Many reason to break project into distinct pieces with well-defined
       interfaces
@@ -47,4 +54,3 @@
         * advanced containers
    1. define interfaces
       * input, output, behavior
-
