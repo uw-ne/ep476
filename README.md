@@ -97,10 +97,10 @@ facilitates modern engineering analysis.
 
 ### Week 4 (Feb 13 & Feb 15): 
 * [Lecture #7](lectures/lec07.md): Managing collaborative contributions and conflicts
-* Lecture #8: Project scoping and design
+* [Lecture #8](lectures/lec08.md): Project scoping and design
 
 ### Week 5 (Feb 20 & Feb 22): 
-* Lecture #9
+* [Lecture #9](lectures/lec09.md): Introduction to Python and best practices
 * Lecture #10
 
 ### Week 6 (Feb 27 & Mar  1): 
