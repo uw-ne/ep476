@@ -3,7 +3,7 @@
 ## Learning Objectives
 
 * describe which containers are mutable and which are immutable
-* use methods from eacch container type to efficiently manipulate a list
+* use methods from each container type to efficiently manipulate a list
 * identify a specific use case for each container type
 * use a variety of containers to design the data structures for a software project
 
@@ -23,7 +23,7 @@ Chapter 3, pages 65-75
    * notation
    * indexing & slicing like strings
      * slicing on LHS of assignment
-     * del slivce
+     * del slice
    * list operators:
      * NOT mathematical arrays
    * list methods:
@@ -36,9 +36,9 @@ Chapter 3, pages 65-75
      * order matters
      * mutable
  
-1. tuples - imutable lists
+1. tuples - immutable lists
    * notation
-   * imutable struture
+   * immutable structure
      * may have mutable members
    * what methods exist?
    * test how lists are different from tuples
