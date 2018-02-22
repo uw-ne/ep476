@@ -80,4 +80,4 @@ Chapter 3, pages 65-75
 
 
 
-* hw - read some code that is both good and bad and have them identify problems - PR code into their otherwise empty repositories after they have claimed
+x
