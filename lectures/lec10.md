@@ -5,6 +5,7 @@
 * describe which containers are mutable and which are immutable
 * use methods from eacch container type to efficiently manipulate a list
 * identify a specific use case for each container type
+* use a variety of containers to design the data structures for a software project
 
 ## Textbook
 
