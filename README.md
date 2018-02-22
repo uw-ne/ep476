@@ -101,7 +101,7 @@ facilitates modern engineering analysis.
 
 ### Week 5 (Feb 20 & Feb 22): 
 * [Lecture #9](lectures/lec09.md): Introduction to Python and best practices
-* [Lecture #10](lecture/lec10.md): Containers for effective data structures
+* [Lecture #10](lectures/lec10.md): Containers for effective data structures
 
 ### Week 6 (Feb 27 & Mar  1): 
 * Lecture #11
