@@ -5,7 +5,6 @@
 * describe which containers are mutable and which are immutable
 * use methods from each container type to efficiently manipulate a list
 * identify a specific use case for each container type
-* use a variety of containers to design the data structures for a software project
 
 ## Textbook
 
@@ -63,21 +62,4 @@ Chapter 3, pages 65-75
        * use what you've learned to hypothesis how they work and test those
        hypotheses
 
-1. Designing data models and interfaces
-   1. Many reason to break project into distinct pieces with well-defined
-      interfaces
-      * division of labor
-      * separation of concerns
-      * reviewability
-   1. all components must share the same data model
-      * how will data be shared among components
-      * balance between flexibility and simplicity
-      * depends heavily on features of language
-        * object-oriented
-        * advanced containers
-   1. define interfaces
-      * input, output, behavior
 
-
-
-x
