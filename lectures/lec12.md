@@ -5,7 +5,10 @@
 1. Identify when loops should be used to avoid manual repitition
 2. Select the best loop type for a given situation
 3. Implement a clear usage of loop variables and loop conditions
-4. 
+4. Construct clear and concise conditional expressions
+5. Use comprehensions for simpler and readable code
+6. Invoke exceptions for error handling
+7. Write a function that returns one or more variables
 
 ## Textbook Reference
 
