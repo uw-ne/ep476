@@ -11,7 +11,7 @@
 
 Chapter 9, pages 201-227
 
-## Activiteis
+## Activities
 
 
 1. What is numpy?

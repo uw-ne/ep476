@@ -4,5 +4,5 @@
 
 ## Textbook Reference
 
-## Activiteis
+## Activities
 
