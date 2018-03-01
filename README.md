@@ -104,8 +104,8 @@ facilitates modern engineering analysis.
 * [Lecture #10](lectures/lec10.md): Containers for effective data structures
 
 ### Week 6 (Feb 27 & Mar  1): 
-* Lecture #11
-* Lecture #12
+* [Lecture #11](lectures/lec11.md): Numpy arrays for numerical analysis
+* [Lecture #12](lectures/lec12.md): Program control flow
 
 ### Week 7 (Mar  6 & Mar  8): 
 * Lecture #13
@@ -113,7 +113,7 @@ facilitates modern engineering analysis.
 
 ### Week 8 (Mar 13 & Mar 15): 
 * Lecture #15
-* Lecture #16
+* Lecture #16 (Wilson traveling)
 
 ### Week 9 (Mar 20 & Mar 22): 
 * Lecture #17
@@ -122,8 +122,8 @@ facilitates modern engineering analysis.
 ### Spring Break - No Class
 
 ### Week 10 (Apr  3 & Apr  5): 
-* Lecture #19
-* Lecture #20 (ANS Student Conference)
+* Lecture #19 (Wilson traveling)
+* Lecture #20 (Wilson traveling)
 
 ### Week 11 (Apr 10 & Apr 12): 
 * Lecture #21
@@ -131,7 +131,7 @@ facilitates modern engineering analysis.
 
 ### Week 12 (Apr 17 & Apr 19): 
 * Lecture #23
-* Lecture #24
+* Lecture #24 (Wilson traveling)
 
 ### Week 13 (Apr 24 & Apr 26): 
 * Lecture #25
