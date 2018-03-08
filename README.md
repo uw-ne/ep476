@@ -147,6 +147,7 @@ facilitates modern engineering analysis.
 * [Homework #1](hw/hw1.md) - Due 1 PM, Feb 6, 2018
 * [Video #1](https://classroom.github.com/a/8pJ5yRyl) - Due 11 PM, Feb 13, 2018
 * [Homework #2](https://classroom.github.com/a/VUiryU23) - Due 1 PM, Mar 6, 2018
+* [Video #2](https://classroom.github.com/a/NOgV3uEd) - Due 11 PM, Mar 13, 2018
 
 ## Project Assignments
 
