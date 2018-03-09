@@ -26,7 +26,7 @@ In 300-500 words, describe what your project will entail and the scope of your
 contribution.  You should include the set of skills that you think this
 project will require you to demonstrate.
 
-### March 13: Project timeline (5%)
+### March 13: [Project timeline](https://classroom.github.com/a/g_EZgWgs) (5%)
 
 
 Provide a detailed timeline for completing your project.  Break the project
