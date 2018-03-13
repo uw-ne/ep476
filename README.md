@@ -108,8 +108,8 @@ facilitates modern engineering analysis.
 * [Lecture #12](lectures/lec12.md): Program control flow
 
 ### Week 7 (Mar  6 & Mar  8): 
-* Lecture #13
-* Lecture #14
+* Lecture #13: Group work to develop project ideas into plans
+* [Lecture #14](lectures/lec14.md): Finite difference equations & project management with Github
 
 ### Week 8 (Mar 13 & Mar 15): 
 * Lecture #15
