@@ -113,7 +113,7 @@ facilitates modern engineering analysis.
 
 ### Week 8 (Mar 13 & Mar 15): 
 * Lecture #15
-* Lecture #16 (Wilson traveling)
+* [Lecture #16](lectures/lec16.md) (Wilson traveling): Introduction to SciPy and Linear Algebra Review
 
 ### Week 9 (Mar 20 & Mar 22): 
 * Lecture #17
