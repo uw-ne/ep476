@@ -153,6 +153,7 @@ facilitates modern engineering analysis.
 
 * [Proposal](https://classroom.github.com/a/U0BdoYro) - Due 11 PM, Feb 13, 2018
 * [Timeline](https://classroom.github.com/a/g_EZgWgs) - Due  1 PM, Mar 13, 2018
+* [Diagramming](https://classroom.github.com/a/etTIcQFf) - Due 1 PM, Mar 22, 2018
 
 ## Teaching and Learning Philosophy
 
