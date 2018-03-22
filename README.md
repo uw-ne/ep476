@@ -116,7 +116,7 @@ facilitates modern engineering analysis.
 * [Lecture #16](lectures/lec16.md) (Wilson traveling): Introduction to SciPy and Linear Algebra Review
 
 ### Week 9 (Mar 20 & Mar 22): 
-* Lecture #17
+* [Lecture #17](lectures/lec17.md): Demonstration of Software Planning & Diagramming
 * Lecture #18
 
 ### Spring Break - No Class
