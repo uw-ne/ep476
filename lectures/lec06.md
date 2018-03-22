@@ -20,6 +20,8 @@ Chapter 15, pages 365-367
 
 Chapter 16, pages 
 
+Extra resource: [A visual representation of the layers of workflows with git][workflow]
+
 ## Activities
 
 1. Add a layer to the onion with branching (20 min)
@@ -99,3 +101,5 @@ Chapter 16, pages
    for this:
 
     * [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/)
+
+[workflow]: https://docs.google.com/presentation/d/1zWa5y-BUZVvR0jKCtG6ueDxPYoODKTP8xeyhZYP_eGo/edit#slide=id.g30ae4d994d_0_339
