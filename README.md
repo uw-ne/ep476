@@ -117,25 +117,25 @@ facilitates modern engineering analysis.
 
 ### Week 9 (Mar 20 & Mar 22): 
 * [Lecture #17](lectures/lec17.md): Demonstration of Software Planning & Diagramming
-* Lecture #18
+* Lecture #18: Project Work Day
 
 ### Spring Break - No Class
 
 ### Week 10 (Apr  3 & Apr  5): 
-* Lecture #19 (Wilson traveling)
-* Lecture #20 (Wilson traveling)
+* Lecture #19: (Wilson traveling) - Project Work Day
+* Lecture #20: (Wilson traveling/ANS Student Conference): Work on [Homework #3](https://classroom.github.com/a/DbaTeMgm)
 
 ### Week 11 (Apr 10 & Apr 12): 
-* Lecture #21
-* Lecture #22
+* Lecture #21: 
+* Lecture #22: 
 
 ### Week 12 (Apr 17 & Apr 19): 
-* Lecture #23
-* Lecture #24 (Wilson traveling)
+* Lecture #23: 
+* Lecture #24 (Wilson traveling): Project Work Day
 
 ### Week 13 (Apr 24 & Apr 26): 
 * Lecture #25
-* Lecture #26 - Project Work Day
+* Lecture #26
 
 ### Week 14 (May  1 & May  3): 
 * Lecture #27
@@ -148,6 +148,7 @@ facilitates modern engineering analysis.
 * [Video #1](https://classroom.github.com/a/8pJ5yRyl) - Due 11 PM, Feb 13, 2018
 * [Homework #2](https://classroom.github.com/a/VUiryU23) - Due 1 PM, Mar 6, 2018
 * [Video #2](https://classroom.github.com/a/NOgV3uEd) - Due 11 PM, Mar 13, 2018
+* [Homework #3](https://classroom.github.com/a/DbaTeMgm) - Due 1 PM, Apr 12, 2018
 
 ## Project Assignments
 
