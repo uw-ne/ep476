@@ -126,8 +126,8 @@ facilitates modern engineering analysis.
 * Lecture #20: (Wilson traveling/ANS Student Conference): Work on [Homework #3](https://classroom.github.com/a/DbaTeMgm)
 
 ### Week 11 (Apr 10 & Apr 12): 
-* Lecture #21: 
-* Lecture #22: 
+* [Lecture #21](lectures/lec21.md): Managing input: command-line, python-as-input, YAML as a sample standard format
+* [Lecture #22](lectures/lec22.md): Working with files, debugging, and output formats
 
 ### Week 12 (Apr 17 & Apr 19): 
 * Lecture #23: 
