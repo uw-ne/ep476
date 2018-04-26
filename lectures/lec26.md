@@ -71,5 +71,5 @@ ax.plot_surface(X,Y,Z)
     * automated building of software (less relevant for Python)
     * automated testing of software as it's proposed
     * testing in a realistic environment
-  * services exist to assist with this, e.g. CircleCI
+  * services exist to assist with this, e.g. [CircleCI](https://circleci.com/docs/2.0/)
 
