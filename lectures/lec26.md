@@ -1,4 +1,4 @@
-# Lecture #25: 3D in matplotlib, testing and continuous integration
+# Lecture #26: 3D in matplotlib, testing and continuous integration
 
 ## Lecture Objectives
 
