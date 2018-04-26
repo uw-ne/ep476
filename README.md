@@ -134,8 +134,8 @@ facilitates modern engineering analysis.
 * Lecture #24 (Wilson traveling): Project Work Day
 
 ### Week 13 (Apr 24 & Apr 26): 
-* Lecture #25
-* Lecture #26
+* [Lecture #25](lectures/lec25.md): HDF5, Dictionaries of functions, matplotlib
+* [Lecture #26](lectures/lec26.md): 3D plotting, testing and continuous integratino
 
 ### Week 14 (May  1 & May  3): 
 * Lecture #27
