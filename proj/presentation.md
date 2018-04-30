@@ -49,7 +49,7 @@ expect them to be at least 20 minutes or so, to cover all the above material.
 ## Rubric
 
 Topics  |  Strong    |   Adequate  |    Fair   |  None
---------|------------|-------------|---------------------
+--------|------------|-------------|-----------|---------
 Were all the topics covered? |    1.25 |  1  |   0.7   |   0
 Were all team members engaged in the presentation?  | 1.25   |  1   | 0.7  | 0
 Visual quality of presentation materials | 1.25 | 1 | 0.7 | 0
