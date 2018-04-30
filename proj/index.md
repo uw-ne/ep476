@@ -37,12 +37,11 @@ to continue making progress.
 
 ### April 10: Intermediate report (5%)
 
-
 Provide a status report of each of the tasks identified in your timeline.  Be
 prepared to discuss possible changes to your timeline to accommodate the
 current status.
 
-### May 6: Presentation of project progress (5%)
+### May 3: [Presentation of project progress](presentation.html) (5%)
 
 Brief presentations of projects to include:
 
