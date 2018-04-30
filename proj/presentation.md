@@ -48,8 +48,20 @@ expect them to be at least 20 minutes or so, to cover all the above material.
 
 ## Rubric
 
-Topics  |   Maximum   |   Partial   |   None
---------|-------------|-------------|-----------
-Were all the topics covered? |    1 |  0.5  |   1
-Were all team members engaged in the presentation?  | 1   |  0.5   | 0
+Topics  |  Strong    |   Adequate  |    Fair   |  None
+--------|------------|-------------|---------------------
+Were all the topics covered? |    1.25 |  1  |   0.7   |   0
+Were all team members engaged in the presentation?  | 1.25   |  1   | 0.7  | 0
+Visual quality of presentation materials | 1.25 | 1 | 0.7 | 0
+Oral presentation quality | 1.25 | 1 | 0.7 | 0
 
+### Visual Quality
+* All slides are clearly readable, including legends, axes and labels on
+  graphics
+* Graphics are logically arranged and support presentation
+* Aesthetic style is supportive of presentation and not distracting
+
+### Oral Presentation Quality
+* clarity: volume & annunciation
+* engagement: enthusiasm/energy and eye contact
+* fluidity: familiar with topic and able to speak about it without hesitation
